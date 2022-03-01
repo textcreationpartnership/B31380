@@ -1,0 +1,2151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay upon two of Virgil's Eclogues and two books of his Æneis (if this be not enough) towards the translation of the whole / by James Harrington.</title>
+            <author>Virgil.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31380</idno>
+            <idno type="STC">Wing V627</idno>
+            <idno type="EEBO-CITATION">16271463</idno>
+            <idno type="OCLC">ocm 16271463</idno>
+            <idno type="VID">206240</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B31380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206240)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1602:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay upon two of Virgil's Eclogues and two books of his Æneis (if this be not enough) towards the translation of the whole / by James Harrington.</title>
+                  <author>Virgil.</author>
+                  <author>Harrington, James, 1611-1677.</author>
+               </titleStmt>
+               <extent>[16], 44, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.C. for Thomas Brewster ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206240:1"/>
+            <pb facs="tcp:206240:1"/>
+            <p>AN ESSAY <hi>
+                  <g ref="char:V">Ʋ</g>pon two of</hi> VIRGIL'S ECLOGUES, AND TWO BOOK'S OF HIS AENEIS (If this be not enough) Towards the Tranſlation of the whole.</p>
+            <p>BY JAMES HARRINGTON.</p>
+            <q>
+               <l>Ce ne ſont pas nos folies qui me font rire,</l>
+               <l>Ce ſont nos ſageſſes.<bibl>
+                     <hi>—Montaigne.</hi>
+                  </bibl>
+               </l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. C.</hi> for Thomas Brewster <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſign of the three Bibles at the west end of <hi>Pauls,</hi> 1658.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206240:2"/>
+            <pb facs="tcp:206240:2" rendition="simple:additions"/>
+            <head>Epiſtle to the READER.</head>
+            <p>
+               <hi>I</hi> Have reaſon'd to as much purpoſe as if I had rimed, and now I think ſhall rime to as much purpoſe as if I had reaſon'd. All's one, a man that hath no<g ref="char:EOLhyphen"/>thing to entertain himſelf withal but a pen, muſt be contented as others be, or ſhould be with their eſtates, whether narrow or plentiful. Be a mans eſtate as narrow as it will, his natural neceſſities require of the earth variety of fruits; much more doth his delight that hath a garden, that it ſhould produce him va<g ref="char:EOLhyphen"/>riety of flowers. A mans ſtudy, unleſs it be Law or Theology, which commonly is his bread, is his garden, in which he may affirm a roſe or a violet to be the beſt flower, and yet be unwilling it ſhould not be furniſhed with greater variety. Indeed not Nature only, but her Maker is appa<g ref="char:EOLhyphen"/>rently
+<pb facs="tcp:206240:3"/>delighted with variety; his plan<g ref="char:EOLhyphen"/>tations of heaven and earth are not in<g ref="char:EOLhyphen"/>dued or ſowed with one, but divers influences, or ſeeds, and his nearer re<g ref="char:EOLhyphen"/>ſemblance the ſoul of man is impreg<g ref="char:EOLhyphen"/>nated with divers faculties. The heavens and the earth have their ſeaſons to play with flowers as well as to work at har<g ref="char:EOLhyphen"/>veſt: and the ſoul of man is as well in<g ref="char:EOLhyphen"/>dued with phanſie as with reaſon when memory: the harveſt of reaſon when ſhe is predominate, is natural Theology or Phyloſophy, that of memory; ſtory, and prudence: Phanſie of her ſelf (that is where the other two do not check but ohey her) produceth but a flower, which is Poetry. Others have gone farther about for the vindication of this Art, not (I think) to come the neareſt way home; ſeeing by thus much it is clear enough that Poetry is not <hi>the wine of Divels,</hi> but a ſprightly liquor infuſed into the ſoul by God himſelf. It is true
+<pb facs="tcp:206240:3"/>the Divel may ſtumb it, but ſo he may reaſon or memory, which in this caſe become ſo much the more deadly draughts, as fraud is more poiſonous then fiction, or revenge and malice then wantonneſs. To theſe arguments from reaſon I might add experience, exemplifi'd in the greateſt maſters of the graveſt Arts, as <hi>Moſes, Lycurgus,</hi> and <hi>Machiavil,</hi> all ſufficiently known to have exerciſed and delighted themſelves with Poetry. I would willing<g ref="char:EOLhyphen"/>ly walk in my ſtudy with this horſe of the Muſes in my hand, and ſometimes mount for my recreation, that is, if <hi>I</hi> may be allow'd any thing a good ſeat, and not ruin'd with the Ladies. The career <hi>I</hi> have choſen, is that where the ring was never yet taken nor touched, ſo that at worſt I ſhall but fail with the beſt companie. In which opinion I am ſo confident that I am thought pleaſant.</p>
+            <div type="poem">
+               <pb facs="tcp:206240:4"/>
+               <head>Ah me.</head>
+               <lg>
+                  <l>THe man's unbleſt in time or ſeaſon</l>
+                  <l>That neither thrives by rime nor reaſon.</l>
+                  <l>Reaſon hath been a ſword of might.</l>
+                  <l>And rime hath been a forked dart.</l>
+                  <l>Reaſon could have ſubdu'd Sir Knight.</l>
+                  <l>And rime have reach'd a Ladies heart.</l>
+                  <l>In me alone a rime or reaſon</l>
+                  <l>Muſt either be a crime or treaſon.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Courage.</head>
+               <lg>
+                  <l>WHo writes doth launch a ſhip, that ſhould not pray</l>
+                  <l>For calms, but winds to make her ſtream<g ref="char:EOLhyphen"/>ers play:</l>
+                  <l>For live ſhe never ſhall, except the wea<g ref="char:EOLhyphen"/>ther</l>
+                  <l>To ſet upon her can but wag her feather.</l>
+               </lg>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="eclogues">
+            <pb facs="tcp:206240:4"/>
+            <head>ECLOGUES OR, PASTORALS.</head>
+            <div type="eclogue">
+               <argument>
+                  <head>Argument.</head>
+                  <p>THe occaſion of writing this Eclogue and the next was this, When after the death of <hi>Julius Caeſar,</hi> ſlain in the Senate, <hi>Auguſtus</hi> his ſon, by a war againſt them that ſlew him, and againſt <hi>Anthony,</hi> had obtain<g ref="char:EOLhyphen"/>ed the victory of them all, he divided the lands of the inhabitants of <hi>Cremona</hi> among his ſouldiers, meerly becauſe they had quarterd his enemies, whom they were not able to reſiſt, and the lands of <hi>Cremona</hi> not ſufficing for this uſe, he alſo divided thoſe of <hi>Mantua</hi> after the ſame manner, for no other reaſon then that <hi>Mantua</hi> was neereſt <hi>Cremona. Virgil</hi> being an inhabitant of <hi>Mantua,</hi> and coming by this means to loſe his patrimony, repaired unto <hi>Rome,</hi> and there by the favour of the great ones, obtained ſuch particular reſpect, that he alone continu'd his ancient poſſeſſion; which nevertheleſs was ſiezed by <hi>Arius</hi> the Centurion, who took it ſo ill to be removed, that if <hi>Virgil</hi> had not eſcaped his fury by plunging himſelf into the river <hi>Mincius,</hi> the Centurion had kill'd him. In this Eclogue the Poet repreſents himſelf by <hi>Tityrus,</hi> by <hi>Melibeus</hi> the miſerable condition of thoſe of <hi>Mantua:</hi> Which City he coucheth under the name of <hi>Galatea;</hi> under that of <hi>Amarillis, Rome;</hi> by the god he celebrateth, he means <hi>Auguſtus Caeſar.</hi>
+                  </p>
+               </argument>
+               <pb facs="tcp:206240:5"/>
+               <head>FIRST ECLOGUE</head>
+               <stage>Melibus. Tityrus.</stage>
+               <sp>
+                  <l>Thou in the ſhadow of a ſpreading beech</l>
+                  <l>Doſt lie along bleſt <hi>Tityrus,</hi> and teach</l>
+                  <l>The woods to eccho <hi>Amarillis</hi> fair:</l>
+                  <l>While we, enforc'd to change our native air,</l>
+                  <l>Give up the vital breath of our ſweet fields.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>O <hi>Melibeus,</hi> 'tis a god that yields</l>
+                  <l>Our Muſe this leiſure: many a tender lamb</l>
+                  <l>Out of our fold ſhall feed his holy flame.</l>
+                  <l>By him my cattel wander as thou ſeeſt,</l>
+                  <l>By him my rural pipe plays what ſhe liſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Melibeus.</speaker>
+                  <l>In truth I do not envy, but admire</l>
+                  <l>What it ſhould be for which throughout the ſhire</l>
+                  <l>They take away our lands! Ah do but ſee</l>
+                  <l>How ſick I drive my goats along with me:</l>
+                  <l>And look you <hi>Tityrus,</hi> alas there's one</l>
+                  <l>Can hardly go; but now ſhe ye and upon</l>
+                  <l>The naked flint in yonder hazels, where</l>
+                  <l>She left her twins, and all my hopes this year.</l>
+                  <l>This when our oaks (if we had minded) from</l>
+                  <l>The skies were toucht, was ſure enough to come.</l>
+                  <l>This miſchief many times I heard full well</l>
+                  <l>Th' unhappy crow from hollow elms foretel.</l>
+                  <l>But <hi>Tityrus</hi> what is this god of yours?</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>I thought that <hi>Rome</hi> was ſuch a town as ours,</l>
+                  <l>Fool as I was, and that they us'd to keep</l>
+                  <l>Their flocks as we do here, and tended ſheep:</l>
+                  <l>So <hi>Melibeus</hi> I compar'd the lambs</l>
+                  <l>Unto the Ews, the kids unto their dams.</l>
+                  <pb facs="tcp:206240:5"/>
+                  <l>But ſhe among the Cities over-tops,</l>
+                  <l>As doth the Cypreſs in a Myrtle cops.</l>
+               </sp>
+               <sp>
+                  <speaker>Melibeus.</speaker>
+                  <l>And what good <hi>Tityrus</hi> made you at <hi>Rome?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Why truly when I ſaw the ſouldiers come,</l>
+                  <l>And here miſuſe us ſo; though late it were,</l>
+                  <l>And that it ſnow'd if I but clipt my hair,</l>
+                  <l>I thought upon it and began to ſee</l>
+                  <l>What kind of thing it was call'd Liberty.</l>
+                  <l>This loſt while I with <hi>Galatea</hi> griev'd,</l>
+                  <l>Changing for <hi>Amarillis</hi> I retriev'd:</l>
+                  <l>While th' other held me, I could neither ſpy</l>
+                  <l>An hope of fredome nor propriety:</l>
+                  <l>Though I the beſt of all my flock to this</l>
+                  <l>Had ſacrific'd, and ſent my fatteſt cheeſe</l>
+                  <l>Without return to the ungrateful town.</l>
+               </sp>
+               <sp>
+                  <speaker>Melibeus.</speaker>
+                  <l>I marl'd why <hi>Amarillis</hi> made ſuch moan,</l>
+                  <l>It was for thee: I wonder'd on whoſe pine</l>
+                  <l>She'd let the apples hang, it was on thine.</l>
+                  <l>While <hi>Tityrus</hi> with <hi>Amarillis</hi> kept,</l>
+                  <l>The fountains mourn'd, his <hi>Galatea wept.</hi>
+                  </l>
+                  <l>She fil'd the meddows with her ſlighted loves,</l>
+                  <l>And broke the ſilence of reſounding groves.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>What could I do? no other means I ſaw</l>
+                  <l>My ſervitude to ſhun, nor could I draw</l>
+                  <l>So neer the gods another way. Mine eyes</l>
+                  <l>Here found the power to whom I ſacrifice:</l>
+                  <l>Here firſt mine ears receiv'd his Oracles.</l>
+                  <l>Shepherd go feed thy flock, and yoak thy bulls.</l>
+               </sp>
+               <sp>
+                  <speaker>Melibeus.</speaker>
+                  <l>Happy old man! for this to thee, thy land</l>
+                  <pb facs="tcp:206240:6"/>
+                  <l>Remains for ever at thy bleſt command!</l>
+                  <l>And though ſome part with ſedge, and ſome with ling</l>
+                  <l>Be overgrown, it is a goodly thing.</l>
+                  <l>Thy calves in kindly paſtures ſhall be rear'd,</l>
+                  <l>Nor get the murrain of a forreign herd.</l>
+                  <l>Happy old man! here by thy native brooks,</l>
+                  <l>In ſhady valleys ſhalt thou hear the rooks.</l>
+                  <l>The Bee ſhall buz with her <hi>Hyblean</hi> lays</l>
+                  <l>Soft ſleep into thine eyes from blooming ſprays.</l>
+                  <l>To thee ſhall warble the melodious rocks,</l>
+                  <l>While woodmen cut their browſe, or hew their blocks:</l>
+                  <l>The groans of Turtles from the airy trees,</l>
+                  <l>The murmur of Quiſt ſhall joyn with theſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Wherefore the ſea ſhall drive his ſcaly ſhoales</l>
+                  <l>Into the woods, the ſtag ſhall browſe the poles,</l>
+                  <l>The <hi>Parthian</hi> ſhall drink of <hi>Arar</hi> firſt,</l>
+                  <l>And rapid <hi>Tigris</hi> quench the <hi>German</hi> thirſt,</l>
+                  <l>Ere I forget his favour or this grace.</l>
+               </sp>
+               <sp>
+                  <speaker>Melibeus.</speaker>
+                  <l>But we muſt flit unto ſome other place,</l>
+                  <l>Be on the torride zone, or frozen hurld,</l>
+                  <l>Or Britiſh ſhores divided from the world.</l>
+                  <l>O might I ſee but after many years</l>
+                  <l>My houſe of turfe, my field with yellow ears.</l>
+                  <l>But this the impious ſouldier muſt poſſeſs,</l>
+                  <l>This corn the barbarous! Ah bleſſed peace!</l>
+                  <l>See Citizens what diſcord ſows, and who</l>
+                  <l>Muſt reap! Be ſure you graft your apples now</l>
+                  <l>And dreſs your vineyards. Hence no more ſhall I</l>
+                  <l>By the green arms of trees protected lie</l>
+                  <l>And ſee you far away, once happy flocks,</l>
+                  <l>Brouzing the ſhrubs and hanging on the rocks:</l>
+                  <l>Nor while you nibble ſhall I pipe your notes</l>
+                  <pb facs="tcp:206240:6"/>
+                  <l>Sweet as your three leav'd graſs. Farewel my Goats.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Yet <hi>Melibeus</hi> ſince the ſhadows now</l>
+                  <l>Are at their length, and ſmoaking chimneys ſhow</l>
+                  <l>'Tis late; you may remain with us this night.</l>
+                  <l>Ripe cheſnuts, mellow apples ſhall delight</l>
+                  <l>Your palate, we have cheeſe enough ith' houſe,</l>
+                  <l>And you ſhall lie upon a bed of boughs.</l>
+               </sp>
+            </div>
+            <div type="eclogue">
+               <argument>
+                  <head>Argument.</head>
+                  <p>BY <hi>Meris</hi> in this Eclogue, is to be underſtood <hi>Virgils</hi> Shepherd or Baylif, who carries a preſeot of kids to mollifie the Centurion <hi>Arius;</hi> by <hi>Menalcas</hi> is meant <hi>Virgil</hi> himſelf, ſome of whoſe verſes <hi>Meris</hi> is woed by <hi>Lycidas</hi> to repeat.</p>
+               </argument>
+               <head>NINTH ECLOGUE.</head>
+               <stage>Lycidas. Meris.</stage>
+               <sp>
+                  <l>Whither away good <hi>Meris,</hi> to the town?</l>
+               </sp>
+               <sp>
+                  <speaker>Meris.</speaker>
+                  <l>O <hi>Lycidas,</hi> the like was never known!</l>
+                  <l>We live to ſee a gueſt come in a doors</l>
+                  <l>And ſay, my friends, this houſe, theſe fields are ours,</l>
+                  <l>I pray depart! Nay, and for this (becauſe</l>
+                  <l>Fortune will have obedience to her laws)</l>
+                  <l>Muſt I theſe kids unto his worſhip bear.</l>
+                  <l>But ſhall not ſay much good may do you Sir.</l>
+               </sp>
+               <sp>
+                  <speaker>Lycidas.</speaker>
+                  <l>There was a ſpeech me thinks that ſince among</l>
+                  <l>The gallant Courtiers your <hi>Menalcas</hi> ſung,</l>
+                  <pb facs="tcp:206240:7"/>
+                  <l>They left him all his goodly fields that reach</l>
+                  <l>Down from the hills to the bald-pated beech.</l>
+               </sp>
+               <sp>
+                  <speaker>Meris.</speaker>
+                  <l>Why ſo they talk'd indeed; but ſongs and loves</l>
+                  <l>Are unto ſouldiers as to eagles doves.</l>
+                  <l>Neither your <hi>Meris</hi> nor <hi>Menalcas</hi> now</l>
+                  <l>Had been alive, had the auſpicious crow</l>
+                  <l>Out of her hollow rooſt not ſtood my friend,</l>
+                  <l>And warn'd me that I ſhould no more contend.</l>
+               </sp>
+               <sp>
+                  <speaker>Lycidas.</speaker>
+                  <l>Is there ſuch wickedneſs! in thee alone</l>
+                  <l>
+                     <hi>Menalcas</hi> all our melody had gone.</l>
+                  <l>Who ſhould have ſung the Nymphs? Our ſprings with bowers,</l>
+                  <l>Have clouded or have ſtar'd our fields with flowers?</l>
+                  <l>Who ere made verſe like that I ſtole from thee</l>
+                  <l>When thou to <hi>Amarillis</hi> ſtolſt from me!</l>
+                  <l>
+                     <hi>Feed Tityrus, the flock, till I return,</hi>
+                  </l>
+                  <l>
+                     <hi>I go not far, and drive 'em to the bourn,</hi>
+                  </l>
+                  <l>
+                     <hi>But driving make me not more haſte then ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>The Goat is parlous with the horn, take heed.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mhris.</speaker>
+                  <l>What then were thoſe to <hi>Varus,</hi> ſet by yours;</l>
+                  <l>
+                     <hi>Varus thy name (if Mantua be ours,</hi>
+                  </l>
+                  <l>
+                     <hi>Mantua whoſe guilt is that ſhe is too neer</hi>
+                  </l>
+                  <l>
+                     <hi>Cremona) ſwans unto the skies ſhall bear.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Lycidas.</speaker>
+                  <l>As thou doſt hope thy ſwarm ſhall ſcape the Ew,</l>
+                  <l>Or that the honeyſuckle ſhall indue</l>
+                  <l>The ſtrutting udders of thy Cows, begin</l>
+                  <l>If thou haſt any more, for I am in:</l>
+                  <l>Me have the ſiſters made a poet too,</l>
+                  <l>And this our ſwains throughout the fields avow;</l>
+                  <l>But I believe them not; ſuch ſtrains as theſe</l>
+                  <pb facs="tcp:206240:7"/>
+                  <l>To Varus or the Muſes ſwans were geeſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Meris.</speaker>
+                  <l>I am upon it, and if I can bring</l>
+                  <l>It well to mind, a noble air ſhall ſing.</l>
+                  <l>
+                     <hi>Come faireſt Galatea, come away.</hi>
+                  </l>
+                  <l>
+                     <hi>What ſport is there for me where Delphins play?</hi>
+                  </l>
+                  <l>
+                     <hi>The purple ſpring here ſcatters, on the ſhores</hi>
+                  </l>
+                  <l>
+                     <hi>Of creeping rivlets, his delitious ſtores.</hi>
+                  </l>
+                  <l>
+                     <hi>The poplar with the vine hath joyning made</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>s party colourd bowers and cooling ſhade.</hi>
+                  </l>
+                  <l>
+                     <hi>Come lovely ſea nymph from the furrowd deep,</hi>
+                  </l>
+                  <l>
+                     <hi>And let the ſhores thy flock of billows keep.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Lycidas.</speaker>
+                  <l>Now that at which the sky grew clear as curds</l>
+                  <l>Laſt night; I have the tune, what are the words?</l>
+               </sp>
+               <sp>
+                  <speaker>Meris.</speaker>
+                  <l>
+                     <hi>Why hee dſt thou Dapnis antiquated ſigns?</hi>
+                  </l>
+                  <l>
+                     <hi>Behold the ſtar of heav'n born Caeſar ſhines,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe Mounth beſtows upon the gods of bread</hi>
+                  </l>
+                  <l>
+                     <hi>And wine, the ruby crown and golden head.</hi>
+                  </l>
+                  <l>
+                     <hi>Engraft thine apples Daphnis and thy pears,</hi>
+                  </l>
+                  <l>
+                     <hi>The harveſt ſhall deſcend upon thine heirs.</hi>
+                  </l>
+                  <l>You ſhould have more, but all is gone with time:</l>
+                  <l>I could have brought the Sun to bed in rime:</l>
+                  <l>Now me my verſes and my voice forſake;</l>
+                  <l>The wolf hath ſeen me firſt. But this way make</l>
+                  <l>You merry till <hi>Menalcas</hi> come and feaſt</l>
+                  <l>Us on our floury carpets with the reſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Lycidas.</speaker>
+                  <l>Ah thou by theſe haſt but my flame increaſt.</l>
+                  <l>The air to hearken has his murmur ceaſt.</l>
+                  <l>The ſilent wave his roughneſs at thy feet</l>
+                  <l>Hath laid as ſmooth as glaſs. That we are yet</l>
+                  <l>But half our way <hi>Bianors</hi> tomb now ſhows;</l>
+                  <pb facs="tcp:206240:8"/>
+                  <l>Here where the ſhepherds cut him verdant boughs</l>
+                  <l>Here <hi>Meris</hi> let us ſing, thy kids here lay,</l>
+                  <l>We ſhall be time enough at <hi>Mantua.</hi>
+                  </l>
+                  <l>Or if the moiſt ſurprize of night we fear,</l>
+                  <l>Sing as we go, and I the kids will bear.</l>
+               </sp>
+               <sp>
+                  <speaker>Meris.</speaker>
+                  <l>Good <hi>Lycidas</hi> be ſaid; if firſt we bring</l>
+                  <l>Our work about, we ſhall have time to ſing.</l>
+               </sp>
+            </div>
+            <div type="essay">
+               <pb facs="tcp:206240:8"/>
+               <head>A Note upon the fore-going <hi>Eclogues.</hi>
+               </head>
+               <p>THat the <hi>Roman</hi> Empire was never founded upon a ſufficient ballance of abſolute Monarchy, is very true; but not truer then that this was the cauſe of that impotency and miſery in the ſame, which oppreſſed both Prince and People. Wherefore (becauſe the error is popular) I ſhall take this opportunity to propoſe unto ſuch as place the ballance or foundation of the <hi>Roman</hi> Empire in a matter of eight or ten thouſand Praetorians, a few Quaeries.</p>
+               <p n="1">1. Whether <hi>Tarquine</hi> made not ſuch havock of the <hi>Roman</hi> Nobility, as left the advantage of the ballance of Dominion ten for one in the people? And whether this did not inevitably tend unto the generation of the Commonwealth?</p>
+               <p n="2">2. Whether the Nobility when they overcame, under <hi>Sylla,</hi> held not the advantage of the ballance ten for one againſt the people? And whether this did not inevitably tend unto the generation of Monarchy?</p>
+               <p n="3">3. Whether <hi>Sylla</hi> did not plant forry ſeven Legions, or one hundred and twenty thouſand Veteranes in <hi>Italy</hi> upon Lands taken in the war? Whether this preſident were not followed by the <hi>Triumvirs</hi> firſt, then by <hi>Auguſtus Caeſar,</hi> as in theſe Eclogues? and whether this were not the ballance of the <hi>Roman</hi> Monarchy?</p>
+               <p n="4">4. Whether ſuch Lands confer'd upon the Souldery came not to be called benefices, and the incumbents beneficiaries? and whether the policy of the Turkiſh <hi>Timars</hi> (a word of the ſame ſignification) be not hence derived?</p>
+               <p n="5">5. Whether <hi>Alexander Severus</hi> were not the firſt that granted ſuch benefices unto the next heirs of the incumbents, but upon condition they ſhould continue to ſerve the Emperor in war as formerly, otherwiſe not?</p>
+               <p n="6">6. Whether <hi>Conſtantine</hi> the Great were not the firſt that made theſe benefices (held hitherto for life only) hereditary.</p>
+               <p n="7">7. Whether the ballance being thus ruined, the <hi>Roman</hi> Empire ſubſiſted otherwiſe then by ſtipendiating ſtrangers or merce<g ref="char:EOLhyphen"/>naries, as the <hi>Goths</hi> and <hi>Vandals?</hi>
+               </p>
+               <p n="8">8. Whether this were not the means by which the <hi>Goths</hi>
+                  <pb facs="tcp:206240:9"/>and <hi>Vandals</hi> came to ruine the <hi>Roman</hi> Empire?</p>
+               <p n="9">9. Whether the <hi>Goths</hi> and <hi>Vandals</hi> having ruined the <hi>Roman</hi> Empire, did not by their policy place the over ballance of Domi<g ref="char:EOLhyphen"/>nion in their Nobility? and whether this were not the original of government by King, Lords, and Commons, throughout Chriſtendom?</p>
+               <p>The doctrine of the ballance not ſufficiently diſcover'd or heeded by ancient Hiſtorians and Polititians, is the cauſe why their writings are more dark, and their judgement leſs ſteddy or clear in the principles of Government then otherwiſe they would have been; nevertheleſs, he who not ſtudying Partys, ſhall rightly anſwer theſe Quaeries out of ſtory, muſt ſtrike the inevitable light of this truth out of Nature; which once maſterd, the whole myſtery of Government rightly inſtituted, or to be rightly inſtituted, becometh as demonſtrable and certain, or as obvious and facile, even to vulgar apprehenſions, as the meaneſt of vulgar Arts.</p>
+               <div type="poem">
+                  <head>On the Political Ballance.</head>
+                  <lg>
+                     <l>
+                        <hi>NAture is that preſerv'd which God began:</hi>
+                     </l>
+                     <l>
+                        <hi>The ſoul of Empire and the ſoul of man</hi>
+                     </l>
+                     <l>
+                        <hi>(Though each of Heav'n be the diviner ſeed)</hi>
+                     </l>
+                     <l>
+                        <hi>Bodies by various temper ſhape and feed.</hi>
+                     </l>
+                     <l>
+                        <hi>Where elements are ſtrong, or where they faint,</hi>
+                     </l>
+                     <l>
+                        <hi>'Tis life or death, be thou or wretch or Saint:</hi>
+                     </l>
+                     <l>
+                        <hi>Who other ſteps through blind ambition trod</hi>
+                     </l>
+                     <l>
+                        <hi>Invaded not the throne of Man but</hi>
+                        <note n="*" place="bottom">As when the Ballance was Popular. 1 <hi>Sam.</hi> 8.7. When Mo<g ref="char:EOLhyphen"/>narchial. <hi>Jer.</hi> 27.9, 10, 11.</note> 
+                        <hi>God.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+         <div type="epic_poem">
+            <pb n="1" facs="tcp:206240:9"/>
+            <head>VIRGIL'S AENEIS. The firſt Book.</head>
+            <lg>
+               <l>I, He of late that on the ſlender oate,</l>
+               <l>Sat piping to the fields an humble note;</l>
+               <l>Then paſſing through the woods, indu'd the plains</l>
+               <l>With vow'd allegiance though to griple ſwains;</l>
+               <l>A work with theſe already in the van:</l>
+               <l>Now ſing the horrid arms of <hi>Mars,</hi> the man</l>
+               <l>Whoſe wandring fate from ruin'd
+<note place="margin">a Troy.</note> 
+                  <hi>Ilium</hi> bore</l>
+               <l>His painful courſe for the
+<note place="margin">b Italy.</note> 
+                  <hi>Lavinian</hi> ſhore.</l>
+               <l>Much was he toſſed both at ſea and land</l>
+               <l>By <hi>Juno</hi>'s wrath, and that celeſtial band</l>
+               <l>Of powr's, which in her quarrel ſhe engag'd:</l>
+               <l>And much he ſuffer'd in the wars he wag'd,</l>
+               <l>Ere he could ſeat his deities, or found</l>
+               <l>The mother City on <hi>Italian</hi> ground;</l>
+               <l>From whence our <hi>Latine</hi> predeceſſors come,</l>
+               <l>Our <hi>Albane</hi> fathers, and our haughty <hi>Rome.</hi>
+               </l>
+               <l>O Muſe record the cauſe, what had there been</l>
+               <l>To animate the gods or grieve their Queen,</l>
+               <pb n="2" facs="tcp:206240:10"/>
+               <l>That ſhe with ſuch a world of woe ſhould wound</l>
+               <l>The man for piety ſo much renown'd?</l>
+               <l>Can paſſion ſet ev'n ſouls in heaven on fire!</l>
+               <l>
+                  <hi>Carthage,</hi> an ancient City ſprung from <hi>Tyre,</hi>
+               </l>
+               <l>Once for her wealth and martial arts in vogue,</l>
+               <l>Againſt the yellow ſhores that diſimbogue</l>
+               <l>Rough <hi>Tyber,</hi> ſtood to <hi>Italy</hi> oppos'd;</l>
+               <l>
+                  <hi>Juno</hi>'s delight, the circle that enclos'd</l>
+               <l>Her heart beyond her <hi>Samos;</hi> to this plot</l>
+               <l>(Where hung her arms, where ſtood her chariot)</l>
+               <l>Could ſhe the fatal Siſters have enclin'd,</l>
+               <l>The Empire of the world had been deſign'd.</l>
+               <l>But they had told there ſhould deſcend from <hi>Troy</hi>
+               </l>
+               <l>A race that muſt the <hi>Tyrian</hi> line deſtroy,</l>
+               <l>A ſoveraign people that the head ſublime</l>
+               <l>Of Empire, ſhould on ruin'd <hi>Carthage</hi> climbe.</l>
+               <l>The goddeſs gald with this, her antient fewd</l>
+               <l>Revolves, by growing injuries renewd:</l>
+               <l>The honours done to raviſh'd <hi>Ganimed,</hi>
+               </l>
+               <l>Who of the hated blood of <hi>Troy</hi> was bred;</l>
+               <l>Her beauty foyld and blaſted by the foul</l>
+               <l>Repulſe of <hi>Paris,</hi> dwell in her deep ſoul.</l>
+               <l>For theſe the reliques of the <hi>Grecian</hi> ire</l>
+               <l>Some years ſhe wrenchd with ſeas &amp; bleach'd with fire;</l>
+               <l>Jealous of <hi>Italy</hi> as of her <hi>Jove,</hi>
+               </l>
+               <l>The wandring <hi>Trojan</hi> from his harbour drove,</l>
+               <l>While every element obey'd her doom.</l>
+               <l>So vaſt a work it was to raiſe up <hi>Rome!</hi>
+               </l>
+               <l>The <hi>Trojan</hi> fleet at plough with brazen prows,</l>
+               <l>The ſight of <hi>Sicily</hi> no ſooner looſe,</l>
+               <l>Then <hi>Juno</hi> feeding her eternal wound,</l>
+               <l>Thus with her ſelf. Muſt then the Fates confound</l>
+               <l>My enterprizes? Yes, they ſhall convince</l>
+               <l>Me with their ſaw, and with their <hi>Dardan</hi> Prince.</l>
+               <pb n="3" facs="tcp:206240:10"/>
+               <l>
+                  <hi>Minerva,</hi> when unto her
+<note place="margin">c Caſſandra.</note> Propheteſs</l>
+               <l>
+                  <hi>Oilus</hi> offer'd force, could go no leſs</l>
+               <l>Then thunder: for the fault of one, her hand</l>
+               <l>By <hi>Jove</hi>'s good favour, flouriſht with his brand,</l>
+               <l>Sunk an whole Navy, ith' <hi>Aegaean</hi> ſtraights</l>
+               <l>Of <hi>Grecians,</hi> of my confederates,</l>
+               <l>With whirlewinds took the guilty lover, ſtuck</l>
+               <l>Him, gaſping flame, upon a pointed rock!</l>
+               <l>But I the Queen of heaven, from age to age,</l>
+               <l>With half a foe, a fruitleſs war muſt wage,</l>
+               <l>Nay, ſtill be worſted, who will bend a knee,</l>
+               <l>Or pay a grain of incenſe more to me?</l>
+               <l>Thus fanning hidden fire, ſhe took her way</l>
+               <l>Into the land of ſtorms, <hi>Aeolia.</hi>
+               </l>
+               <l>Here <hi>Aeolus,</hi> while in his mighty cave,</l>
+               <l>The hollow winds, and ſounding tempeſts rave,</l>
+               <l>Upon a lofty tower enthroned bears</l>
+               <l>A ſcepter awful to the mutineers;</l>
+               <l>Who yet with murmur for enlargement ſeek,</l>
+               <l>In labour to be born at every creek:</l>
+               <l>And ſhould the marble womb afford them birth,</l>
+               <l>Would lave the ſea, and mingle heaven and earth.</l>
+               <l>But <hi>Jove,</hi> a people that ſo high are flown,</l>
+               <l>As with their liberty to ſhake his throne</l>
+               <l>Obſerving, hurl'd upon their necks the rocks</l>
+               <l>That bow their fury to eternal yoaks;</l>
+               <l>Gave them a King that curbs the giddy race</l>
+               <l>With brazen chains, and with an iron mace.</l>
+               <l>To him lamenting <hi>Juno</hi> ſpeaks her mind,</l>
+               <l>Prince of the rocks and ayries of the wind,</l>
+               <l>Behold the Tyrrhene ſeas are cover'd o're</l>
+               <l>With canvas that to me will never lore;</l>
+               <l>My enemy, in my deſpite, is bound</l>
+               <l>To plant his colours on <hi>Italian</hi> ground:</l>
+               <pb n="4" facs="tcp:206240:11"/>
+               <l>Unhood thy falcons, ſlip their leaſes, throw</l>
+               <l>Thy haggards off to tyre upon my foe.</l>
+               <l>For this, <hi>De <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ope,</hi> the blackeſt ey'd,</l>
+               <l>The faireſt <hi>Nymph</hi> I have ſhall be thy bride,</l>
+               <l>And live a conſtant mark of gratitude,</l>
+               <l>In lovely copies of thy ſelf renew'd.</l>
+               <l>Madam (ſaid <hi>Aeolus</hi>) when we but know</l>
+               <l>Your pleaſure, 'tis obedience we ow,</l>
+               <l>Who at the table of the gods have place,</l>
+               <l>And hold our pregnant Empire of your grace.</l>
+               <l>Then turning with his javelin gave a ſtroak</l>
+               <l>That fruitfully diſclos'd the teeming rock.</l>
+               <l>The winged furies from the bottome ſweep</l>
+               <l>The ſea, and to the mountains roll the deep.</l>
+               <l>The chariot of the poles is over driven,</l>
+               <l>The axel catches fire in groaning heaven.</l>
+               <l>Untimely night is hatch'd by brooding clouds</l>
+               <l>That ſit the ſea. The noiſe of tearing ſhrouds</l>
+               <l>Is anſwer'd by the ſhreeks of men beneath,</l>
+               <l>To whom each object threatens preſent death.</l>
+               <l>Ah (ſays <hi>Aeneas</hi>) you that chanc'd to fall</l>
+               <l>While <hi>Troy</hi> was yet inveſted with her wall,</l>
+               <l>On which your wives or aged parents ſtood,</l>
+               <l>And ſaw your valour ſacrifice your blood</l>
+               <l>Unto your Countrey, ſouls for ever bleſt!</l>
+               <l>How oft have I deſir'd your envi'd reſt!</l>
+               <l>Thus <hi>Hector</hi> with <hi>Achilles</hi> parted well.</l>
+               <l>Thus great <hi>Sarpedon</hi> by <hi>Patroclus</hi> fell.</l>
+               <l>Why <hi>Diomedes</hi> could I not from you</l>
+               <l>Obtain the favour every whit as due,</l>
+               <l>Where <hi>Simois</hi> ſo many ſhields and helms</l>
+               <l>And dearer ſpoils of <hi>Heroes</hi> overwhelms?</l>
+               <l>But theſe, to other ſighs, to other brine</l>
+               <l>That tear his ſails, and ſnap his oars, reſign.</l>
+               <pb n="5" facs="tcp:206240:11"/>
+               <l>A billow charges like a falling rock,</l>
+               <l>The prow declines, the deck receives the ſhock.</l>
+               <l>Some bottomes ſound and raiſe the ſand below,</l>
+               <l>While others foam on liquid <hi>Alps</hi> in ſnow.</l>
+               <l>Three on the ſhelves (they call the altars) ſtick,</l>
+               <l>And other three are ſtranded in a quick,</l>
+               <l>
+                  <hi>Orontes</hi> Captain of the <hi>Lycian</hi> keel,</l>
+               <l>Engag'd in broken ſeas that meeting wheel,</l>
+               <l>Is ſwallow'd by the gulph. What <hi>Troy</hi> could ſave</l>
+               <l>From fire, is now for plunder to the wave.</l>
+               <l>The <hi>Ilion, Abbas,</hi> the <hi>Achates,</hi> all,</l>
+               <l>How ſnug, how tite ſoever, or how tall,</l>
+               <l>Are drunken with the tipple of their leaks,</l>
+               <l>And ſtagger unto death with giddy decks.</l>
+               <l>
+                  <hi>Neptune</hi> by this who felt the lower ſound</l>
+               <l>Remove, in great commotion gave a bound</l>
+               <l>Which from the deep above the raging flood</l>
+               <l>Advanc'd his calmy head. Intent he ſtood</l>
+               <l>Upon the ruine ſcatter'd round about,</l>
+               <l>Perceives it <hi>Trojan</hi> and is out of doubt;</l>
+               <l>He's no ſuch ſtranger to his ſiſter Queen</l>
+               <l>But <hi>Juno</hi> through her cloud is eas'ly ſeen.</l>
+               <l>At which he hales the winds, and rates 'em. Whence?</l>
+               <l>Sons of the Gyants, this your confidence!</l>
+               <l>From your high birth forſooth! that ere your leiſure</l>
+               <l>Could give you leave to know our will and pleaſure,</l>
+               <l>You dare to jumble heaven and earth together!</l>
+               <l>Whom we—But better 'tis to calm the weather.</l>
+               <l>Be gone, and tell your King what he forgot,</l>
+               <l>The azure crown and trident are our lot,</l>
+               <l>He muſt not lord it here, he may do ſo</l>
+               <l>Upon your conyburies Puff-cheeks, go.</l>
+               <l>His words reſtore the day: the ſhips are wrench'd</l>
+               <l>Out of the ſhelves and quicks, their jaws unclench'd</l>
+               <pb n="6" facs="tcp:206240:12"/>
+               <l>By <hi>Triton</hi> joyning with <hi>Cymothoe;</hi>
+               </l>
+               <l>While <hi>Neptune</hi> in his chariot rolls the ſea.</l>
+               <l>As when ſome mighty City burſteth out</l>
+               <l>Into ſedition, the ignoble rout</l>
+               <l>Aſſault the Palaces, uſurp the ſtreet</l>
+               <l>With ſtones, or brands, or any thing they meet;</l>
+               <l>(For furies armoury is everywhere)</l>
+               <l>But if a man of gravity appear,</l>
+               <l>Whoſe worth they own, whoſe piety they know,</l>
+               <l>Are mute, are planted in the place, and grow</l>
+               <l>Unto his lips that ſmooth, that melt their ſouls:</l>
+               <l>So huſh the waves where <hi>Neptune</hi>'s chariot rolls.</l>
+               <l>The <hi>Trojans</hi> leaky, ſpent and ſhatter'd, ſtand</l>
+               <l>Now for the next which was the <hi>Lybian</hi> Land.</l>
+               <l>A boſome in the yielding border lay</l>
+               <l>The ſafe retreat unto a calmy bay,</l>
+               <l>Which, ſeaward by an Iſle is fortifi'd</l>
+               <l>That drives the foamy croud with either ſide</l>
+               <l>On rocks which threaten heaven and aw the deep;</l>
+               <l>By theſe the weary billows ſteal to ſleep.</l>
+               <l>The one whoſe airy brows are over-grown,</l>
+               <l>Under the ſhadow of his oaken crown,</l>
+               <l>Receives the ſtranger, and preſents his ſight</l>
+               <l>With vari'd ſcenes of wonder and delight.</l>
+               <l>I'th other hangs a cave, the dear reſort</l>
+               <l>Of Nymphs that revel in the marble Court;</l>
+               <l>Where laviſh ſprings in ſilver eddys run,</l>
+               <l>And ſeats are offer'd by the living ſtone.</l>
+               <l>The ſhips that here arrive enſure themſelves,</l>
+               <l>Nor need their crooked teeth to bite the ſhelves.</l>
+               <l>Seven gallies with the Prince of all his ſtore</l>
+               <l>Disbarque, enamour'd of the wiſhed ſhore.</l>
+               <l>The ſea-ſick ſtooping kiſs the flowry veſt</l>
+               <l>Of mother earth and lay their bones to reſt.</l>
+               <pb n="7" facs="tcp:206240:12"/>
+               <l>
+                  <hi>Achates</hi> ploughs with flint and ſows the ſeed</l>
+               <l>Of flame which wither'd leaves and branches feed.</l>
+               <l>Some bring the mils and ſome the ſoaken wheat:</l>
+               <l>They yet have better appetites then meat.</l>
+               <l>
+                  <hi>Aeneas</hi> fulleſt of his wanted men</l>
+               <l>(To ſee if there were any hope in ken)</l>
+               <l>Had climb'd a rock, upon whoſe deck he ſtood</l>
+               <l>As much as ever toſſed by the flood,</l>
+               <l>While he can neither a diſmantled ſtern,</l>
+               <l>Nor canvas creſt throughout the coaſt diſcern.</l>
+               <l>In grief deſcending from the helpleſs crags,</l>
+               <l>He caſts his eye upon an herd of ſtags</l>
+               <l>At forrage in the valley, where they fed</l>
+               <l>In file with three commanders at the head:</l>
+               <l>His bow and feather'd reeds he takes, to theſe</l>
+               <l>The faireſt ſtandards ſtoop like falling trees;</l>
+               <l>At which in vain the vulgar take the rout</l>
+               <l>By his unerring hand purſued throughout</l>
+               <l>The ruſling woods, till he have equalled</l>
+               <l>Unto his ſhips the number of the dead.</l>
+               <l>Theſe, with the wine that good <hi>Aceſtes</hi> ſtowd</l>
+               <l>Into the hould at the <hi>Sicilian</hi> road;</l>
+               <l>He deſtributes unto his fainting troops,</l>
+               <l>With words that re-inſpire the ſoul that droops.</l>
+               <l>Companions ſays he, too well you know</l>
+               <l>We are not learning what belongs to wo,</l>
+               <l>But muſt forget the dolours we out-live</l>
+               <l>To doubt if God an end to theſe can give.</l>
+               <l>Unto the teeth of the <hi>Nereian</hi> wolf,</l>
+               <l>Or to the ſwallow of her ſiſter Gulph,</l>
+               <l>The forge of <hi>Aetna,</hi> or her Smiths, what may</l>
+               <l>We reckon that we have eſcap'd to day?</l>
+               <l>If pleaſure paſt be but as treaſure loſt,</l>
+               <l>Then pains when they are paſt may quit the coſt.</l>
+               <pb n="8" facs="tcp:206240:13"/>
+               <l>Through all varieties that can oppoſe,</l>
+               <l>Each element conſpiring with our foes,</l>
+               <l>We make our way, and at an eaſie rate</l>
+               <l>When we compute the promiſes of Fate;</l>
+               <l>For if we thus redeem the <hi>Trojan</hi> wall,</l>
+               <l>It ſtood us yet in more to ſee it fall.</l>
+               <l>Reſerve your ſelves for better. Thus he ſaid</l>
+               <l>With ſmiling lips, but with an heart that bled.</l>
+               <l>The Deer are broken up, ſome ſtrip the ſide,</l>
+               <l>And others with their glittering skeans divide</l>
+               <l>The bleeding quarry into chops yet hot,</l>
+               <l>That tremble on the ſpit or warm the pot,</l>
+               <l>The iron helmet and the brazen ſhield</l>
+               <l>Are pots and pans that ſtew the ſmoaky field:</l>
+               <l>Till on the graſs they wallow, where at length</l>
+               <l>Fat veniſon and old wine retreive their ſtrength.</l>
+               <l>Hunger appeas'd but wakes another pain;</l>
+               <l>
+                  <hi>Gyas</hi> and <hi>Amycus</hi> are call'd in vain:</l>
+               <l>What of <hi>Cloanth,</hi> of <hi>Lycus</hi> is become?</l>
+               <l>And of <hi>Orontes,</hi> ah the cruel doom!</l>
+               <l>
+                  <hi>Aeneas</hi> of the mourners ſtill is chief</l>
+               <l>And with a never diſcontinu'd grief.</l>
+               <l>
+                  <hi>Jove</hi> on the brow of heaven a pauſe now made,</l>
+               <l>The poiſed earth and ſail-wing'd ſea ſurvey'd,</l>
+               <l>On mortals and their frail affairs intent;</l>
+               <l>When <hi>Venus</hi> full of tears, as he is bent</l>
+               <l>Point blank upon the <hi>Lybian</hi> realms and ſeas,</l>
+               <l>Invades the thundrer with ſuch moans as theſe.</l>
+               <l>Director of the gods and men, you ſee</l>
+               <l>What of my <hi>Trojans</hi> is become and me.</l>
+               <l>How have they ſin'd, that ſtill their puniſhments</l>
+               <l>Are but renew'd, while all the world conſents.</l>
+               <l>To hold em off, againſt your will combin'd?</l>
+               <l>Or how is it that you have chang'd your mind?</l>
+               <pb n="9" facs="tcp:206240:13"/>
+               <l>Sure you have made it known to be your doom,</l>
+               <l>That <hi>Italy</hi> by <hi>Troy</hi> ſhould bear great <hi>Rome.</hi>
+               </l>
+               <l>With this I ſollac'd my afflicted ſtate</l>
+               <l>When ſhe was ruin'd, poiſing fate with fate:</l>
+               <l>Yet cruel fortune, at our charge indu'd</l>
+               <l>With conſtancy, purſues her antient few'd.</l>
+               <l>
+                  <hi>Antenor</hi> through the <hi>Greek</hi> could find a way</l>
+               <l>A paſſage through the Gulph of <hi>Adria.</hi>
+               </l>
+               <l>Croſs the <hi>Lyburnian</hi> territory ſafe,</l>
+               <l>Subdue the furious torrent of <hi>Timave,</hi>
+               </l>
+               <l>That burſting from a mountain in nine ſtreams,</l>
+               <l>Ploughs the fat valley with his foamy teams,</l>
+               <l>And there erect his <hi>Padua,</hi> where at eaſe</l>
+               <l>He bears the <hi>Trojan</hi> arms impal'd with peace.</l>
+               <l>Why then ſhould ſome, whoſe ways you needs muſt ſee,</l>
+               <l>Have leſs regard to us your progeny,</l>
+               <l>While we are in our lawful voyage croſt,</l>
+               <l>Tatter'd and torn, and hung on every coaſt?</l>
+               <l>Is this the throne, the ſcepter you inten'd?</l>
+               <l>Who will be pious if this be the end?</l>
+               <l>
+                  <hi>Jove,</hi> with the ſmiles that clear the weather, dips</l>
+               <l>His coral in the Nectar of her lips,</l>
+               <l>And thus replies. My <hi>Cytherea</hi> fair,</l>
+               <l>Diſcharge theſe moving pillows of their care.</l>
+               <l>What we engage we never ſhall decline,</l>
+               <l>Firm as our <hi>Atlas</hi> ſtand the fates of thine.</l>
+               <l>Thy promis'd City ſhall put forth her towres,</l>
+               <l>And ſpring the neereſt neighbour unto ours;</l>
+               <l>'Tis thus upon the roll, and I could ſtrain</l>
+               <l>A point, becauſe I ſee thou art in pain,</l>
+               <l>To make the ſecrets of the Fates appear</l>
+               <l>A little more at large, but in thine ear;</l>
+               <l>This man thy ſon will have enough to do,</l>
+               <l>His foes have might and courage, but muſt bow.</l>
+               <pb n="10" facs="tcp:206240:14"/>
+               <l>Ere three ſprings warm him in his Latine throne,</l>
+               <l>Or the fierce Rutili have been his own</l>
+               <l>So many winters, all will be ſecur'd,</l>
+               <l>Rough nations hewn, his royal ſeat immur'd:</l>
+               <l>Then ſhall he captivate their better parts,</l>
+               <l>By righteous laws inthroned in their hearts.</l>
+               <l>But young <hi>Aſcanius</hi> (whom they call'd <hi>Jule</hi>)</l>
+               <l>Removing from <hi>Lavinium,</hi> ſhall rule,</l>
+               <l>Till <hi>Sol</hi> have finiſht thirty large carriers,</l>
+               <l>At <hi>Alba,</hi> which ſhall be three hundred years</l>
+               <l>The ſeat of <hi>Trojan</hi> Empire, ere the ſons</l>
+               <l>Of <hi>Mars</hi> be born among the veſtal Nuns,</l>
+               <l>And <hi>Romulus</hi> from royal <hi>Ilia</hi> come</l>
+               <l>To ſuck his wolf and then to build thy <hi>Rome;</hi>
+               </l>
+               <l>From him the <hi>Romans</hi> ſhall deſcend: to theſe</l>
+               <l>I ſet no bounds of time, of land or ſeas.</l>
+               <l>My wife herſelf ſhall here compoſe our wars,</l>
+               <l>Become the willing nurſe of their affairs:</l>
+               <l>The patronized earth ſhall gladly own</l>
+               <l>Her ſelf the client of the <hi>Roman</hi> gown.</l>
+               <l>It is decreed, and flowing time ſhall ſee</l>
+               <l>Submiſſive <hi>Greece</hi> reſtore upon her knee</l>
+               <l>The Trophies that from <hi>Trojan</hi> aſhes came</l>
+               <l>To the reviving <hi>Phoenix</hi> of her flame.</l>
+               <l>Then ſhall her <hi>Caeſar (Julius</hi> of great</l>
+               <l>
+                  <hi>Julus</hi> call'd) unto his Empire ſet</l>
+               <l>The Ocean, to his fame the ſtarry skies</l>
+               <l>For frontiers, to which when he ſhall riſe</l>
+               <l>Loaden with Eaſtern ſpoils in ſpicy ſmoak,</l>
+               <l>Him ſhall the gods embrace and men invoke.</l>
+               <l>The age ſucceeding ſhall relent, obey</l>
+               <l>Law and Religion, throwing arms away;</l>
+               <l>With Iron bolts and leavers ſtanch and bar</l>
+               <l>The floud-gate and the doleful hinge of war:</l>
+               <pb n="11" facs="tcp:206240:14"/>
+               <l>Within ſhall impious fury ſit in chains</l>
+               <l>On piles of ſwords and ſpears; with ſcalding veins,</l>
+               <l>(His arms behind him in a brazen knot</l>
+               <l>Securely bound) ſet up his horrid throat.</l>
+               <l>This ſaid he ſends his Harbinger to take</l>
+               <l>Up <hi>Juno's Carthage</hi> for the <hi>Trojan</hi> wrack;</l>
+               <l>Who cuts the liquid air with feather'd oars</l>
+               <l>And caſts himſelf upon the <hi>Lybian</hi> ſhores.</l>
+               <l>The <hi>Tyrian</hi> courage nor the royal breſt</l>
+               <l>Of <hi>Dido</hi> ſtrives with <hi>Jove</hi> or the diſtreſt.</l>
+               <l>
+                  <hi>Aeneas</hi> now had paſs'd a thoughtful night</l>
+               <l>In muſing where he was, and with the light</l>
+               <l>Is up to hide his fleet and ſeek this out,</l>
+               <l>He is at once their General, their Scout.</l>
+               <l>Nor was it by the Countrey eaſily gueſs'd</l>
+               <l>Whether it were the realm of man or beaſt:</l>
+               <l>The coaſt was deſert, and the land untill'd,</l>
+               <l>(For <hi>Carthage</hi> yet her ſelf was hardly fill'd)</l>
+               <l>The bay was ſtrangely over-grown, the flood</l>
+               <l>In many creeks was cover'd by the wood:</l>
+               <l>In theſe he ſtows his Navy, then away</l>
+               <l>He and <hi>Achates</hi> with their javelins ſtray.</l>
+               <l>An huntreſs in the covert paſſes by,</l>
+               <l>As in the duske heavens wanton flaſhes fly,</l>
+               <l>To whom <hi>Harpalice</hi> of <hi>Thrace</hi> were ſlow,</l>
+               <l>Her ſporting locks like rapid <hi>Heber</hi> flow;</l>
+               <l>The ruffling winds that touſe her as ſhe goes,</l>
+               <l>A rifled breſt, a naked knee diſcloſe.</l>
+               <l>The <hi>Spartane</hi> maid (for this unto the eye</l>
+               <l>Her dreſs, her quiver, and her bow imply)</l>
+               <l>Begins the dialogue. My hearts, I pray</l>
+               <l>Did any of my ſiſters go this way?</l>
+               <l>In pillage of the ſpotted <hi>Linx,</hi> they follow</l>
+               <l>The foamy bore, or did you hear them hollow?</l>
+               <pb n="12" facs="tcp:206240:15"/>
+               <l>Goddeſs, (ſays he) for in that voice, that face</l>
+               <l>There is no ſound, no ſhew of humane race;</l>
+               <l>None of thy ſiſters did we ſee or hear</l>
+               <l>Nor if we had could have inform'd thee where,</l>
+               <l>Who know not where we are; propitious power,</l>
+               <l>Behold the ſhipwrack of a forreign ſhore;</l>
+               <l>Say what we do, whoſe fields they be we tread,</l>
+               <l>To whom we fall; ſo ſhall thy flames be fed</l>
+               <l>By our right hands. Strangers, (ſays ſhe) not ſo;</l>
+               <l>Unto the purple buskin and the bow,</l>
+               <l>Which is the faſhion with the <hi>Tyrian</hi> Dames,</l>
+               <l>Belong no ſuch devotions nor flames.</l>
+               <l>The fields you tread to <hi>Carthage</hi> appertain,</l>
+               <l>Where ſons of <hi>Mars</hi> obey a womans reign.</l>
+               <l>Here <hi>Dido</hi> by her brother chas'd from <hi>Tyre</hi>
+               </l>
+               <l>The ſcepter ſways: volumes her wrongs require.</l>
+               <l>But I ſhall touch their tops and run them over.</l>
+               <l>The greateſt Lord of lands, the trueſt lover</l>
+               <l>Throughout <hi>Phoenicia,</hi> in her blooming pride</l>
+               <l>From her glad parents had receiv'd this bride;</l>
+               <l>
+                  <hi>Sichaeus</hi> was his name, whoſe brother then</l>
+               <l>(<hi>Pigmalion</hi> the wickedeſt of men)</l>
+               <l>Was King of <hi>Tyre.</hi> This prodigy by ſtealth</l>
+               <l>Murders <hi>Sichaeus</hi> meerly for his wealth,</l>
+               <l>The body and the fact conceals, beguiles</l>
+               <l>His ſiſters flatter'd hopes with many wiles;</l>
+               <l>Till all in ſlumber be at length diſclos'd</l>
+               <l>Unto the widdow by her husbands ghoſt:</l>
+               <l>His viſage wan in dreadful wiſe he ſhews,</l>
+               <l>His wounds, the mazes of the bloody houſe,</l>
+               <l>Then beckons to a vault where buried lie</l>
+               <l>His golden hoards, with which he bids her flie.</l>
+               <l>She thus reſolved, companions in her flight</l>
+               <l>Loathing and fear of tyranny provide.</l>
+               <pb n="13" facs="tcp:206240:15"/>
+               <l>
+                  <hi>Pigmalion</hi>'s revolting fleet is tow'd</l>
+               <l>Into rebellion, by the treaſure ſtow'd:</l>
+               <l>Under the conduct of a woman, on</l>
+               <l>A canvas wing his golden dream is flown.</l>
+               <l>Such was the Colony that landed where</l>
+               <l>You ſoon will ſee her riſing towres appear.</l>
+               <l>But whence are you, or whither would you go?</l>
+               <l>Goddeſs (ſays he) the Sun, ere half our wo</l>
+               <l>Could be expreſs'd, would hide himſelf: we are</l>
+               <l>
+                  <hi>Troys</hi> aſhes ſpurn'd and ſcatter'd into air:</l>
+               <l>Her hated reliques which the light abhors,</l>
+               <l>Toſs'd by the ſeas and ſplit upon the ſhores.</l>
+               <l>
+                  <hi>Aeneas</hi> is my name, whom wrathful heaven</l>
+               <l>Exil'd in twenty ſhips now brought to ſeven.</l>
+               <l>A Countrey promis'd by the deſtinies</l>
+               <l>I ſeek, purſuing <hi>Italy</hi> that flies.</l>
+               <l>But ſure (returns the maid) he has not loſt</l>
+               <l>His way, nor all the gods, that on this coaſt</l>
+               <l>Is born, by milder weather or by ſtreſs,</l>
+               <l>As when you ſee the Queen you will confeſs.</l>
+               <l>And as thoſe ſwans deſcending from above,</l>
+               <l>Where they were ſcatter'd by the bird of <hi>Jove,</hi>
+               </l>
+               <l>Tack their white ſails, and falling in a round</l>
+               <l>Together touch or ſeem to touch the ground,</l>
+               <l>So does your fleet, ſo does your landing youth,</l>
+               <l>If ancient augury have any truth.</l>
+               <l>This ſaid, in vain recalled by her ſon,</l>
+               <l>His Mother <hi>Venus</hi> as ſhe goes is known;</l>
+               <l>Who, to conceal him from the gazing crowd,</l>
+               <l>At parting clothes him with a truſty crowd,</l>
+               <l>And ſo to <hi>Paphos,</hi> where unto the skies</l>
+               <l>An hundred ſmoaky altars ſeek her, hies.</l>
+               <l>The <hi>Trojans</hi> haſte and riſing with their way,</l>
+               <l>
+                  <hi>Carthage</hi> below from ſteepy clifs ſurvey.</l>
+               <pb n="14" facs="tcp:206240:16"/>
+               <l>Wonder commands an halt. The vale, ere while</l>
+               <l>Sprinkled with ſheds, becomes an haughty pile,</l>
+               <l>The pavements ſound, the ardent <hi>Tyrians</hi> reek,</l>
+               <l>Some cut, ſome roll the ſtone which others ſeek</l>
+               <l>In ſpeckled quarries, ſome the theater</l>
+               <l>On mighty columns, ſome the caſtle rear,</l>
+               <l>Some ſpread a common roof, and ſome their own,</l>
+               <l>While others lead the wall about the town.</l>
+               <l>As when the heir apparent of the hive</l>
+               <l>Calls forth the youth, or when their parents ſtive</l>
+               <l>In liquid cells the plunder of the fields;</l>
+               <l>One brings the burden and another builds,</l>
+               <l>The eager work with murmur fills the plain,</l>
+               <l>A drone is not permitted to remain.</l>
+               <l>
+                  <hi>Aeneas</hi> moves agen and moving cries,</l>
+               <l>O walls that have the happineſs to riſe!</l>
+               <l>Then met by none with what he pleaſes meets,</l>
+               <l>And goes inviſible into the ſtreets.</l>
+               <l>A grove that caſt a pleaſing ſhade, indued</l>
+               <l>The mighty City with a ſolitude,</l>
+               <l>Which in the middle of the builders lay</l>
+               <l>Untouched by the threatning ax, ſince they</l>
+               <l>Here with the ſpade diſcover'd <hi>Juno</hi>'s ſign,</l>
+               <l>An horſes head, by which they might divine</l>
+               <l>Unto their arms and ploughs increaſe. There ſtood</l>
+               <l>A temple in the middle of the wood,</l>
+               <l>Unto the goddeſs raiſed by the Queen,</l>
+               <l>Which full of either power, and pomp was ſeen.</l>
+               <l>The high aſcent was braſs, the beams were cheek'd</l>
+               <l>With braſs, the gates on brazen hinges ſhreek'd.</l>
+               <l>Here firſt <hi>Aeneas</hi> met what made him dare</l>
+               <l>To truſt his hopes, and vilifie deſpair:</l>
+               <l>For wandring through a world, the penſil ſtruck</l>
+               <l>As out of Chaos with ſtupendious luck;</l>
+               <pb n="15" facs="tcp:206240:16"/>
+               <l>He finds the ſtory of the <hi>Trojan</hi> flame</l>
+               <l>Had fill'd the world already with her fame.</l>
+               <l>Here <hi>Agamemnon,</hi> there <hi>Achilles</hi> ſtood;</l>
+               <l>Here <hi>Priam</hi> ſacrificed in his blood.</l>
+               <l>At which he ſtopt and wept, behold, ſays he,</l>
+               <l>
+                  <hi>Achates,</hi> if in all the earth there be</l>
+               <l>A ſtranger to our woes, an heart ſo hard</l>
+               <l>Where pain wants pity, vertue her reward:</l>
+               <l>While each of theſe hath been our harbinger,</l>
+               <l>What is it man that we ſhould need to fear?</l>
+               <l>While thus the empty ſhadows drink his tears</l>
+               <l>And feed his hopes, the zealous Queen repairs</l>
+               <l>So to the temple, and with ſuch a train:</l>
+               <l>As when upon the <hi>Taenarean</hi> plain,</l>
+               <l>The fair <hi>Oreades</hi> by hundreds follow</l>
+               <l>The quiver-bearing ſiſter of <hi>Apollo.</hi>
+               </l>
+               <l>Her incenſe paid, the <hi>Dame</hi> intent upon</l>
+               <l>Her growing Empire, now aſcends a throne</l>
+               <l>Environ'd by her guards; divides, creates</l>
+               <l>By word or lot, the honours, Magiſtrates:</l>
+               <l>While men as Oracle receive her law.</l>
+               <l>Mean time it ſeem'd unto the Prince he ſaw</l>
+               <l>
+                  <hi>Antheus, Sergeſt, Cloanthus,</hi> many more</l>
+               <l>He gave for loſt appearing at the door.</l>
+               <l>
+                  <hi>Achates,</hi> rapt with joy, would ſtreight have had</l>
+               <l>Him break his cloud; <hi>Aeneas</hi> though as glad</l>
+               <l>Yet not ſo ſuddain, while he ſees a preſs</l>
+               <l>About the ſtrangers, waits for the ſucceſs.</l>
+               <l>They ſue for audience, which granted, thus</l>
+               <l>Unto the Queen grave <hi>Ilioneus.</hi>
+               </l>
+               <l>May't pleaſe your ſacred Majeſty; the hand,</l>
+               <l>Which by divine indulgence hath obtain'd</l>
+               <l>To be the foundreſs of a glorious realm,</l>
+               <l>And ſteer rough Nations with a calmy helm,</l>
+               <pb n="16" facs="tcp:206240:17"/>
+               <l>We ruines of our <hi>Troy</hi> and of your ſhore</l>
+               <l>To gracious pity and relief implore.</l>
+               <l>O ſtop the ſluces of miſtaken ire;</l>
+               <l>O ſave our Navy from the threaten'd fire.</l>
+               <l>We neither bring you war, nor come for prey,</l>
+               <l>Crimes which our better fortunes could not lay</l>
+               <l>Unto our charge: what courage then appears</l>
+               <l>In conquer'd boſomes to create ſuch fears?</l>
+               <l>There is a Land was call'd <hi>Heſperia,</hi>
+               </l>
+               <l>Where once th' <hi>Oenotrian</hi> plough'd the fertil clay,</l>
+               <l>A dug of earth that ſuckles arms; the name</l>
+               <l>Of late is <hi>Italy,</hi> at this we aim.</l>
+               <l>It was the cruelty of wind and weather</l>
+               <l>That broke us in our courſe and forc'd us hither.</l>
+               <l>Yet winds and ſeas have caſt us upon men,</l>
+               <l>While men would caſt us into ſeas agen;</l>
+               <l>Your ſhores are arm'd againſt a naked breſt,</l>
+               <l>As if the gods were foes to the diſtreſs'd.</l>
+               <l>The wave devours, they threaten with the brand,</l>
+               <l>We ſink, and yet they will not let us land.</l>
+               <l>A Prince we have, or had, then whoſe hath fame</l>
+               <l>For arms or piety no greater name;</l>
+               <l>To him in kindneſs, if he ſee the Sun,</l>
+               <l>You never will repent to have begun.</l>
+               <l>This was, this is I truſt <hi>Aeneas:</hi> We</l>
+               <l>Have friends, <hi>Aceſtes</hi> King of <hi>Sicily,</hi>
+               </l>
+               <l>Who being of our blood muſt needs embrace</l>
+               <l>A favour done unto the <hi>Dardan</hi> race.</l>
+               <l>We ask but to <hi>Carine</hi> upon your ſhores,</l>
+               <l>And cut a little wood to make us oars.</l>
+               <l>This work perform'd immediately we ſteer</l>
+               <l>For <hi>Italy,</hi> if of our Prince we hear;</l>
+               <l>But if our life be ſwallow'd by the waves,</l>
+               <l>For <hi>Sicily</hi> which will afford us graves.</l>
+               <pb n="17" facs="tcp:206240:17"/>
+               <l>The ſenſe of <hi>Ilioneus</hi> approv'd</l>
+               <l>By all, the Queen at firſt was ſomewhat mov'd,</l>
+               <l>Who thus, invaded by a bluſh, replies.</l>
+               <l>
+                  <hi>Trojans,</hi> if diligence or jealouſies</l>
+               <l>Have rougher brows in Empire that is new,</l>
+               <l>This ſhould not be ſo ſtrange to ſuch as you.</l>
+               <l>Be not diſcourag'd, we have heard of all,</l>
+               <l>Your Prince, your ſelves, your City and her fall.</l>
+               <l>The Sun is neerer neighbour both to <hi>Tyre</hi>
+               </l>
+               <l>And <hi>Carthage</hi> then to leave us in the mire</l>
+               <l>Of Barbariſm: you may ſafely uſe</l>
+               <l>Our ports, and taking time as freely chuſe</l>
+               <l>Your courſe, or with your Prince, or for your friend;</l>
+               <l>And what it is you want our ſtores ſhall lend.</l>
+               <l>Or ſhould you rather like this realm of ours,</l>
+               <l>The City which we build is freely yours.</l>
+               <l>Break up your fleet, with me the different name</l>
+               <l>
+                  <hi>Trojan</hi> and <hi>Tyrian</hi> ſhall be the ſame.</l>
+               <l>And for your Prince we hope he may be well,</l>
+               <l>But if there be a ſhore of ours can tell,</l>
+               <l>You ſhall be eaſed of the heavy doubt.</l>
+               <l>At which ſhe orders horſe to be ſent out.</l>
+               <l>
+                  <hi>Aeneas</hi> ſwell'd with joy that tore his ſhroud,</l>
+               <l>Broke from the chamber of the lightning cloud</l>
+               <l>Into the field, for which his Mothers charms</l>
+               <l>Had been at work to gird him with her arms;</l>
+               <l>As when to Ivory, to <hi>Parian</hi> ſtone</l>
+               <l>Art contributes the luſtre that's their own.</l>
+               <l>Interpreted by ſuch a garb and meen,</l>
+               <l>He comes with this addreſs unto the Queen.</l>
+               <l>Sacred and only calm I ever knew,</l>
+               <l>The raging ſea, the ſtormy winds that blew,</l>
+               <l>The cruſhing rocks be ever bleſt, ſince we</l>
+               <pb n="18" facs="tcp:206240:18"/>
+               <l>By theſe are driven under ſuch a Lee.</l>
+               <l>While rivers with their ſilver tribute own</l>
+               <l>The ſea, will we the favours you have ſhown;</l>
+               <l>Our gratitude from their immenſeneſs ſhall</l>
+               <l>Deſcend, while ſhadows from the mountains fall.</l>
+               <l>Your fame ſhall ſound and ſpread where ere we ſteer;</l>
+               <l>While Planets wander in the azure ſphear.</l>
+               <l>This ſaid to <hi>Ilioneus, Gyas</hi> and</l>
+               <l>
+                  <hi>Cloanthus,</hi> with the reſt he gives his hand.</l>
+               <l>The preſence or the fortunes of the man</l>
+               <l>Silenc'd the Queen a while, ere ſhe began</l>
+               <l>Thus to bemoan his ſtate, What cruel hand</l>
+               <l>Purſues the pious to an unknown land!</l>
+               <l>You are <hi>Aeneas</hi> whom the goddeſs bore,</l>
+               <l>And <hi>Simois</hi> ſwaddled in his flowry ſhore;</l>
+               <l>For at the time my father <hi>Belus</hi> broke</l>
+               <l>Fat <hi>Cyprus</hi> unto his victorious yoke,</l>
+               <l>There came a <hi>Greek</hi> one <hi>Teucer,</hi> who was ſprung</l>
+               <l>Of <hi>Trojan</hi> blood, and did the name no wrong;</l>
+               <l>He from the very firſt unto the laſt</l>
+               <l>Had ſeen your wars, and told us all that paſt:</l>
+               <l>And in the miſeries which you have known</l>
+               <l>There is ſo great reſemblance of our own,</l>
+               <l>While either fleet by like adventures toſt,</l>
+               <l>Is met at length upon the ſelf ſame coſt;</l>
+               <l>That you may truſt our learning in the art</l>
+               <l>Of giving eaſe to the afflicted heart.</l>
+               <l>Which ſaid, ſhe brings the <hi>Trojan</hi> to her court,</l>
+               <l>And ſends a royal preſent to the port;</l>
+               <l>An hundred ews and lambs, an hundred ſows,</l>
+               <l>And <hi>Bacchus</hi> rides upon a drove of cows.</l>
+               <l>The royal pallace with magnificence</l>
+               <l>And vari'd ſcenes of pomp receiv'd the Prince.</l>
+               <pb n="19" facs="tcp:206240:18"/>
+               <l>The flores were carpets, and the roofs were guilt,</l>
+               <l>The walls with ſtory ſilken volumes fill'd.</l>
+               <l>The board was cover'd with beſuiting ſtate,</l>
+               <l>The cupboards loaden, where the maſſey plate</l>
+               <l>
+                  <hi>Phoenician</hi> arms and pedigrees inrol'd</l>
+               <l>In ſilver Trophies, and triumphant gold.</l>
+               <l>Forthwith <hi>Aeneas</hi> (for the fathers mind</l>
+               <l>Runs not on things that leave the ſon behind)</l>
+               <l>Diſpatch'd <hi>Achates</hi> to the fleet for dear</l>
+               <l>
+                  <hi>Aſcanius,</hi> directed thence to bear</l>
+               <l>Some ornaments and jewels, which had been</l>
+               <l>The choice of <hi>Helens</hi> ſtore, unto the Queen.</l>
+               <l>But <hi>Venus</hi> ſtill in doubt what might betide</l>
+               <l>In <hi>Juno</hi>'s realms, with new adventures pli'd</l>
+               <l>The deſtin'd Lady; ſtole the boy away</l>
+               <l>With ſlumber bound him in <hi>Idalia</hi>
+               </l>
+               <l>The ſluggard lies, imbrac'd by ſhady bowres,</l>
+               <l>In fragrant herbage breathing like the flowres;</l>
+               <l>While Cupid, having laid aſide his wings,</l>
+               <l>Puts on his nephew and the preſent brings.</l>
+               <l>The Queen upon a purple couch at board</l>
+               <l>Was ſet, and next to her the <hi>Trojan</hi> Lord;</l>
+               <l>By him his Captains, for their better cheer</l>
+               <l>Each entertained by a <hi>Tyrian</hi> Peer.</l>
+               <l>Firſt comes the towel and the ſpouting ewre,</l>
+               <l>Then yellow <hi>Ceres</hi> uſher'd by the Sewer.</l>
+               <l>An hundred Pages ſerve the ſmoaky plate,</l>
+               <l>As many on the flouring bottles wait.</l>
+               <l>To theſe not dreaming to be ſo beguil'd</l>
+               <l>Enters the little God that plays the child;</l>
+               <l>The <hi>Tyrians</hi> in the jewels worſhip <hi>Troy,</hi>
+               </l>
+               <l>But <hi>Dido</hi> raviſht with the lovely boy,</l>
+               <l>Enthrones the cruel wanton on her knee,</l>
+               <pb n="20" facs="tcp:206240:19"/>
+               <l>And offers to the unknown Deity</l>
+               <l>In kiſſes, while he ſcratches out <hi>Sicheus</hi>
+               </l>
+               <l>And in her marble boſome writes <hi>Aeneas.</hi>
+               </l>
+               <l>Now at the ſecond ſervice <hi>Bacchus</hi> crown'd</l>
+               <l>With more ſolemnity began his round:</l>
+               <l>At freer mirth which former ſilence brake</l>
+               <l>The roof, the arches murmuring awake.</l>
+               <l>Torches in golden ſconces keep the field</l>
+               <l>And night is ſcatter'd by a flaming ſhield.</l>
+               <l>The bowl which <hi>Belus</hi> us'd, and all from him,</l>
+               <l>Sparkling with wine and jewels to the brim,</l>
+               <l>
+                  <hi>Dido</hi> receives, and ſilence made, O <hi>Jove</hi>
+               </l>
+               <l>(Says ſhe) for thee we underſtand to love</l>
+               <l>The hoſpitable, and preſide at all</l>
+               <l>The entertainments truly jovial,</l>
+               <l>May our poſterity obſerve with joy</l>
+               <l>This day, the feſtival of <hi>Tyre</hi> and <hi>Troy:</hi>
+               </l>
+               <l>Propitious <hi>Juno</hi> be a conſtant gueſt,</l>
+               <l>And <hi>Bacchus</hi> Prince of gladneſs crown the feaſt.</l>
+               <l>At which ſhe ſhed the honour of the cup</l>
+               <l>To conſecrate the board, and took a ſup;</l>
+               <l>Then rouſing mighty <hi>Bitias</hi> gave him hold,</l>
+               <l>Who launch'd his lips, and lav'd the foamy gold.</l>
+               <l>The health goes round. <hi>Iopas</hi> with the treſſes</l>
+               <l>What <hi>Atlas</hi> taught unto the harp expreſſes;</l>
+               <l>How man, how beaſt, how rain and thunder come</l>
+               <l>By Nature to be formed in her womb,</l>
+               <l>The travails of the Sun and Moon in airs</l>
+               <l>Re-eccho to the muſick of their ſphears:</l>
+               <l>
+                  <hi>Trojans</hi> and <hi>Tyrians</hi> at every pauſe</l>
+               <l>Become the <hi>Chorus</hi> with their high applauſe.</l>
+               <l>But other draughts, and other charms then theſe</l>
+               <l>For ever on unhappy <hi>Dido</hi> ſieze;</l>
+               <pb n="21" facs="tcp:206240:19"/>
+               <l>Who waſtes the night with various diſcourſe,</l>
+               <l>Enquiring now of arms and then of horſe,</l>
+               <l>Much after <hi>Priam,</hi> after <hi>Hector</hi> much;</l>
+               <l>If <hi>Diomed</hi> were ſo, <hi>Achilles</hi> ſuch:</l>
+               <l>Nay, but (ſays ſhe) <hi>Aeneas,</hi> now oblige</l>
+               <l>Me to begin, and ſhew me the whole ſiege,</l>
+               <l>VVith all your travels ſince you there begun,</l>
+               <l>And here conclude ſeven courſes of the Sun.</l>
+            </lg>
+         </div>
+         <div type="epic_poem">
+            <pb n="22" facs="tcp:206240:20"/>
+            <head>VIRGIL'S AENEIS. <hi>The ſecond Book.</hi>
+            </head>
+            <lg>
+               <l>SIlence and deep attention every man</l>
+               <l>Had rais'd, when from his haughty couch began</l>
+               <l>The Prince thus in obedience, to relate</l>
+               <l>Unto the <hi>Tyrian</hi> Queen the <hi>Trojan</hi> fate.</l>
+               <l>Madam, our pains, ſince you aſſign them breath,</l>
+               <l>Shall live again, though they be worſe then death:</l>
+               <l>For how dire <hi>Greece</hi> attain'd to overwhelm</l>
+               <l>
+                  <hi>Troy</hi>'s glories, and that miſerable realm,</l>
+               <l>(A deſolation which wretched we,</l>
+               <l>So great a ſhare of it, ſurviv'd to ſee)</l>
+               <l>VVhat <hi>Dolop, Myrmidon,</hi> or tongue of theirs</l>
+               <l>That triumph in the fact, could tell for tears!</l>
+               <l>And now the heavens ſhake off diſſolving night,</l>
+               <l>And ſetting ſtars to injur'd ſleep invite;</l>
+               <l>Yet ſince by your commands, you ſhould not fear</l>
+               <l>The groans again of gaſping <hi>Troy</hi> to hear,</l>
+               <pb n="23" facs="tcp:206240:20"/>
+               <l>Although my ſoul give back, as ſhrinking in</l>
+               <l>At thoughts ſo horrid, I ſhall now begin.</l>
+               <l>The <hi>Greeks</hi> for many years repuls'd by Fate,</l>
+               <l>And broken by our ſallies, dedicate</l>
+               <l>A mighty horſe (whoſe arched rib was pine)</l>
+               <l>To <hi>Pallas,</hi> framed by her art divine;</l>
+               <l>An holy bribe as they would have it thought,</l>
+               <l>By which their licence to retreat was bought.</l>
+               <l>For ſo 'twas given out, while they indeed</l>
+               <l>Had lodg'd an ambuſh in the hollow ſteed.</l>
+               <l>This ſpacious womb of death impregnated</l>
+               <l>Thus with the choiceſt men that nation bred,</l>
+               <l>For <hi>Tenedos</hi> (an Iſland in the ken</l>
+               <l>Of <hi>Troy,</hi> rich, while ſhe ſtood, but now a fen</l>
+               <l>And unſecure) their ſculking Navy bore,</l>
+               <l>And lurk'd upon the ſolitary ſhore.</l>
+               <l>The wind was good, and we ſuppos'd 'em gone,</l>
+               <l>VVhen <hi>Troy</hi> her tarniſh'd jollity put on,</l>
+               <l>Open'd her gates, now every one muſt ſee</l>
+               <l>The trenches of the flying enemy;</l>
+               <l>Here lodg'd <hi>Achilles,</hi> there his <hi>Dolops</hi> laid,</l>
+               <l>Here joyn'd the battel, there was the <hi>Parade.</hi>
+               </l>
+               <l>But that of all which had ingros'd diſcourſe</l>
+               <l>And wonder, was the fabrick of the horſe:</l>
+               <l>VVhich firſt <hi>Thymetes</hi> (whether ſo to be</l>
+               <l>
+                  <hi>Troy</hi>'s Fate would have it or his treachery)</l>
+               <l>Commands into the City to be brought.</l>
+               <l>
+                  <hi>Capys</hi> and others not ſo raſh (who thought</l>
+               <l>The <hi>Grecian</hi> bounty fitter to be thrown</l>
+               <l>Into the ſea then for the wiſe to own)</l>
+               <l>To launch the ſwelling oak, and ſearch the dire</l>
+               <l>Impoſtume, call for axes or for fire.</l>
+               <l>Th' incertain people now to this inclin'd,</l>
+               <pb facs="tcp:206240:21"/>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> now to that, are never of a mind.</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>oon,</hi> in ſpeed and very lowd,</l>
+               <l>Comes from the caſtle, at his heels a crowd,</l>
+               <l>And all the way he runs, he ſhreeks and crys,</l>
+               <l>Ah wretches, what is it hath ſeild your eyes?</l>
+               <l>Is't poſſible you think the <hi>Grecians</hi> fled!</l>
+               <l>Are you no better in <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> read,</l>
+               <l>Then to imagine him a friend that woo'd</l>
+               <l>Be at ſuch coſt with you, and for your good!</l>
+               <l>The foe is ſpying from that lofty creſt,</l>
+               <l>The City to be trampled by this beaſt:</l>
+               <l>Or be what will the drift of this device,</l>
+               <l>A <hi>Greek</hi> and bountiful forewarns me twice.</l>
+               <l>At which he rally'd all his ſcatter'd force,</l>
+               <l>And threw his maſſey javelin at the horſe:</l>
+               <l>It ſtuck and trembled in the dry-lip'd wound,</l>
+               <l>The caves reſounded and the caverns groan'd.</l>
+               <l>O heavens! O deſtinies! you have deſign'd</l>
+               <l>VVhom you intend for ruine to be blind,</l>
+               <l>Or death had thus been ſtifled in the womb,</l>
+               <l>And <hi>Troy</hi> had ſtood upon a <hi>Grecian</hi> tomb.</l>
+               <l>As this was doing, lo unto the King</l>
+               <l>A captive youth in bonds the ſhepherds bring:</l>
+               <l>A rable gathers to him, ſome with ſpite</l>
+               <l>Are mov'd, and ſome with pity at the ſight.</l>
+               <l>The youth among the <hi>Trojan</hi> bands amaz'd,</l>
+               <l>Thus vents his grief as on their ſtrength he gaz'd;</l>
+               <l>VVretch that I am, what land, what ſea can be</l>
+               <l>My refuge, in whoſe double deſtiny</l>
+               <l>Both <hi>Greece</hi> and <hi>troy</hi> purſue each others ends,</l>
+               <l>My equal foes whoſe fortune makes them friends!</l>
+               <l>His words, his ſighs, his tears have turn'd the tide,</l>
+               <l>The <hi>Trojans</hi> pity whom they did deride,</l>
+               <pb n="25" facs="tcp:206240:21"/>
+               <l>Enquire his ſtory, him to truth adviſe,</l>
+               <l>As that wherein the Captives ſafety lies.</l>
+               <l>VVhence he aſſur'd, aſſures the King of truth,</l>
+               <l>I am (ſays he) indeed a <hi>Grecian</hi> youth.</l>
+               <l>(For wicked fortune never ſhall be able</l>
+               <l>To render <hi>Sinon</hi> falſe though miſerable)</l>
+               <l>If you have heard of <hi>Palamed</hi> (deriv'd</l>
+               <l>From <hi>Belus</hi>) who in fame ſhall be long liv'd,</l>
+               <l>Spite of that treachery which cut him ſhort,</l>
+               <l>For ſhocking with the raſhneſs of the Court</l>
+               <l>By counſel, which againſt this war he gave,</l>
+               <l>He dy'd by them that weep upon his grave.</l>
+               <l>I was his kinſman, and with him I came,</l>
+               <l>Driv'n by my wants to venture at this game,</l>
+               <l>The ſword, which by his conduct thriv, while he</l>
+               <l>VVas in ſuch honour, as had ſome for me.</l>
+               <l>But ſince that ſugard poyſon of the tongue</l>
+               <l>Envious <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> (what I ſay is ſung)</l>
+               <l>Gave him his bane; I have bemoan'd my friend</l>
+               <l>In ſolitude, reſolv'd if fate ſhould ſend</l>
+               <l>Me ever home, I never would forget</l>
+               <l>His ghoſt, the traytor, or the bloody debt.</l>
+               <l>But fool, I could not hide this noble ſenſe,</l>
+               <l>And all my miſeries derive from thence.</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> having found me, from that time</l>
+               <l>Hath ſtill upon his forge had ſome new crime</l>
+               <l>Againſt me, ſo to make the vulgar prate,</l>
+               <l>And with their forked tongues to arm his hate.</l>
+               <l>Nor could a peace or truce be ever made,</l>
+               <l>Till he had won our Prophet to his aid—</l>
+               <l>But I anatomize a <hi>Greek</hi> to men</l>
+               <l>That think them all (perhaps) alike, and then</l>
+               <l>My cauſe, no doubt, is pleaded very well</l>
+               <pb n="26" facs="tcp:206240:22"/>
+               <l>To looſe this head of mine, which you may ſell,</l>
+               <l>Since <hi>Agamemnon</hi> or <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> would,</l>
+               <l>For ſuch a purchaſe give the weight in gold.</l>
+               <l>VVe are on thorns to hear his ſtory out,</l>
+               <l>Intreating him to lay aſide his doubt.</l>
+               <l>And on he goes. Full oft the ſtormy skies</l>
+               <l>Have counſel'd us (O had we been ſo wiſe!)</l>
+               <l>To raiſe our ſiege, but never in that ſtyle,</l>
+               <l>As when we were about to build this pile.</l>
+               <l>Yet ſo did they inrage the ſea, that ſtill</l>
+               <l>They took away the power to give the will.</l>
+               <l>In this ſuſpenſe <hi>Eurypylus</hi> is ſent</l>
+               <l>T' inquire at <hi>Delphos</hi> what was the portent.</l>
+               <l>Dire Oracles incens'd <hi>Apollo</hi> ſings,</l>
+               <l>VVhich from the holy threſhold thus he brings.</l>
+               <l>
+                  <hi>O Greeks, when to the ſiege of Troy you came,</hi>
+               </l>
+               <l>
+                  <hi>You offerd up a Virgin ſoul in flame;</hi>
+               </l>
+               <l>
+                  <hi>In flame agen, when ere you would return,</hi>
+               </l>
+               <l>
+                  <hi>A Grecian ſoul unto the winds muſt burn.</hi>
+               </l>
+               <l>The people ſtupid when they hear this news,</l>
+               <l>Expect with horror whom the god will chuſe.</l>
+               <l>The Prieſt comes forth, is urged by my foe</l>
+               <l>To name his man (men ſaw how this would go)</l>
+               <l>Yet tender <hi>Calchas,</hi> to conceal from whence</l>
+               <l>He had his Oracle, is in ſuſpenſe;</l>
+               <l>Ten days he takes, in which to ſeek and know</l>
+               <l>Of heaven, what was reſolv'd ſo long ago,</l>
+               <l>And end his piety where it began,</l>
+               <l>VVhile I at length am pointed out the man;</l>
+               <l>And every one, tranſported thus to be</l>
+               <l>Deliver'd of his own, lays load on me.</l>
+               <l>VVhat remedy? the day is come, the corn</l>
+               <l>And ſalt prepar'd, the filet to be worn.</l>
+               <pb n="27" facs="tcp:206240:22"/>
+               <l>I muſt confeſs, not yet prepar'd to die,</l>
+               <l>I brake my bonds, and made a ſhift to flie</l>
+               <l>Into the ſedges of a lake, there lay</l>
+               <l>Perdu, till they had weigh'd, if they would weigh.</l>
+               <l>And thus have I eſcap'd the ſacrifice,</l>
+               <l>For which perhaps my deareſt friend now dies;</l>
+               <l>My father or my ſon, whom I, nor thee</l>
+               <l>My native Countrey, ever hope to ſee.</l>
+               <l>If truth have any Patron (mighty Sir)</l>
+               <l>In heaven or earth, by him I do conjure,</l>
+               <l>Ponder the weight of my calamity,</l>
+               <l>The greateſt that of guilt was ever free.</l>
+               <l>The captive hath his pardon as his due,</l>
+               <l>And pity of free gift, they brake and threw</l>
+               <l>Away his bonds, while <hi>Priamus</hi> (good King)</l>
+               <l>Thus thaw'd his ſadneſs like the cheerful ſpring.</l>
+               <l>Stranger from hence forgetting <hi>Greece</hi> well loſt,</l>
+               <l>Eſteem thy ſelf a native of this coaſt;</l>
+               <l>No more of that, we call thee ours. But ſay,</l>
+               <l>(This monſtrous horſe confounds me every way)</l>
+               <l>VVhat is portended by the mighty beam?</l>
+               <l>Is it religion or ſtratagem?</l>
+               <l>
+                  <hi>Sinon,</hi> with raiſed hands at liberty,</l>
+               <l>Exclaims, Eternal ſpangles of the sky,</l>
+               <l>Inviolable powers, polluted ſwords,</l>
+               <l>Ye altars I have ſcap'd, ye fillets, cords,</l>
+               <l>VVhat <hi>Greece</hi> can have, to you I now appeal</l>
+               <l>So ſacred, as I ought not to reveal.</l>
+               <l>If ſhe her love, her nature can revoke,</l>
+               <l>I am abſolved from the law ſhe broke.</l>
+               <l>But <hi>Troy,</hi> if faithful to the hope ſhe gives</l>
+               <l>Shall nere repent it, that her <hi>Sinon</hi> lives.</l>
+               <l>VVhile <hi>Pallas</hi> rul'd the <hi>Grecian</hi> arms, 'twas ſo</l>
+               <pb n="28" facs="tcp:206240:23"/>
+               <l>That what deſign ſo ere they drave would go:</l>
+               <l>But from the time that forge of wickedneſs,</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> got with <hi>Diomede</hi> acceſs</l>
+               <l>Unto her ſhrine, by killing of her guard,</l>
+               <l>And there with bloud-imbrued clutches dar'd</l>
+               <l>To touch the goddeſs and her fillet tear,</l>
+               <l>To drag her a ſtatue by the virgin hair, a the <hi>Paladium.</hi>
+               </l>
+               <l>Their fortune like a mighty tide gave back,</l>
+               <l>The ſtrength, the nerve of their deſign grew ſlack.</l>
+               <l>Nor had the goddeſs her eſtranged breſt</l>
+               <l>By undiſcerned prodigies expreſs'd:</l>
+               <l>For when her image came into the camp,</l>
+               <l>The marble ſwet, the eye was like a lamp,</l>
+               <l>And thrice ſhe brandiſh'd in the open field</l>
+               <l>Her threatning ſword, and raiſed up her ſhield.</l>
+               <l>
+                  <hi>Calchas</hi> denounces that they muſt depart,</l>
+               <l>
+                  <hi>Troy</hi> cannot ſuffer by a <hi>Grecian</hi> dart</l>
+               <l>Till all renew'd at <hi>Argos,</hi> they reſign</l>
+               <l>The ſtoln <hi>Palladium</hi> to the proper ſhrine.</l>
+               <l>Nor are they now at home for other ends</l>
+               <l>Then to recruite, and make the gods their friends,</l>
+               <l>That when you leaſt expect they may invade</l>
+               <l>You freſh, for ſo it is by <hi>Calchas</hi> laid.</l>
+               <l>And for the horſe, which warned of their guilt,</l>
+               <l>In lieu of the <hi>Paladium</hi> they built,</l>
+               <l>
+                  <hi>Calchas</hi> ordain'd it of the height you ſee</l>
+               <l>To bar your gates againſt the deity.</l>
+               <l>For thus he propheſies, deſtruction ſhall</l>
+               <l>The <hi>Trojan</hi> name and <hi>Priam</hi>'s throne befal</l>
+               <l>(VVhich righteous heaven fulfil in him and his)</l>
+               <l>If you ſhall violate this edifice;</l>
+               <l>But, if intire her ſaving gift aſcend</l>
+               <l>Your City, <hi>Pallas</hi> ſhall be <hi>Aſia</hi>'s friend,</l>
+               <pb n="29" facs="tcp:206240:23"/>
+               <l>VVhoſe armies through the heart of <hi>Greece</hi> ſhall run,</l>
+               <l>The fathers due repaying to the ſon.</l>
+               <l>VVe give him credit, and his tears ſucceed,</l>
+               <l>The fraud and perjuries of <hi>Sinon</hi> ſpeed</l>
+               <l>Where <hi>Diomedes</hi> and <hi>Achilles</hi> fail</l>
+               <l>In ten years war, and with a thouſand ſail.</l>
+               <l>Yet 'twas an higher hand, while this was hot</l>
+               <l>That ſtriking forged up the iron plot.</l>
+               <l>
+                  <hi>Laocoon,</hi> Prieſt of <hi>Neptune,</hi> deals his blows,</l>
+               <l>A mighty bull before the altar bows,</l>
+               <l>When lo, from <hi>Tenedos</hi> two ſerpents creep,</l>
+               <l>Whoſe circling backs ingulph the calmy deep,</l>
+               <l>Their bloody mains above the wave they hold,</l>
+               <l>And in their winding tales large ſeas infold;</l>
+               <l>The poyſon'd billows caſt them on the ſhore,</l>
+               <l>Licking their jaws that hiſs with flame and gore.</l>
+               <l>Pale and diſpers'd we flie, they ſpring upon</l>
+               <l>Two of the children of <hi>Laocoon,</hi>
+               </l>
+               <l>Soft limbs in venomous embraces wrap,</l>
+               <l>And open purple fountains where they lap.</l>
+               <l>The father with the threatning dart he brought</l>
+               <l>To help, into the running nooſe is caught,</l>
+               <l>And twice about his neck and waſte they got,</l>
+               <l>Raiſing their heads above the ſcaly knot,</l>
+               <l>Which he endeavours to unty in vain,</l>
+               <l>His holy fillet blood and rancor ſtain;</l>
+               <l>At which he bellows like a bull that ſhakes</l>
+               <l>Out of his wounded neck the failing ax:</l>
+               <l>The ſpiny dragons in ſwift mazes flie</l>
+               <l>To fierce <hi>Minerva</hi>'s cittadel, there lie</l>
+               <l>Low at the virgins foot, and hurkle in</l>
+               <l>Protected by her golden ſhield and ſhrine.</l>
+               <l>New terror creeps into each breſt, they own</l>
+               <pb n="30" facs="tcp:206240:24"/>
+               <l>The vengeance juſt that ſiez'd <hi>Laocoon,</hi>
+               </l>
+               <l>Whoſe ſacrilegious javelin dar'd to maim</l>
+               <l>The beauty of the conſecrated frame;</l>
+               <l>And cry to have it inſtantly brought in,</l>
+               <l>If ſo they may the angry Goddeſs win.</l>
+               <l>We lay the City open, break the wall,</l>
+               <l>Some faſten wheels unto the pedeſtal,</l>
+               <l>Harneſs the horſe, and draw him by his trace;</l>
+               <l>Men are his team, he mounts the breach a pace:</l>
+               <l>Soft virgins flock, and proud to touch the ſtring,</l>
+               <l>Like ſwans at <hi>Cytherea</hi>'s chariot ſing,</l>
+               <l>Till from the ruine of the wall they launch</l>
+               <l>Into the threatned ſtreet the ſounding Paunch.</l>
+               <l>Ah, Mother <hi>Troy,</hi> ah walls with trophies hung,</l>
+               <l>Ah temple where the gods had dwelt ſo long!</l>
+               <l>Thrice in his journey was the beaſt diſcern'd</l>
+               <l>To ſtop, and thrice his iron bowels yern'd,</l>
+               <l>While we more beaſts were haling, till at length</l>
+               <l>Plac'd in the tower we gave the foe our ſtrength.</l>
+               <l>Here all was ſaid, but 'twas <hi>Caſſandra</hi> ſaid it,</l>
+               <l>Who was indu'd with truth, but not with credit.</l>
+               <l>Poor ſouls, the day to be our laſt, we dreſt</l>
+               <l>With boughs, and celebrated as a feaſt,</l>
+               <l>When fell the Sun, as if the orbe of light</l>
+               <l>Had burſt, and ſcatter'd with his cinders night;</l>
+               <l>That night which ſpread her ſable wing abroad</l>
+               <l>Ore heaven, ore earth, and ore the <hi>Grecian</hi> fraud.</l>
+               <l>The <hi>Trojans</hi> ſilent as the walls they keep</l>
+               <l>Bedew their ſtiffned limbs which ſupple ſleep,</l>
+               <l>While with the moon to friend, the <hi>Grecians</hi> croſs</l>
+               <l>Unto the well known ſhore from <hi>Tenedos;</hi>
+               </l>
+               <l>Their order'd decks no ſooner were advanc'd,</l>
+               <l>Then flame out of the Admiral gally glanc'd,</l>
+               <pb n="31" facs="tcp:206240:24"/>
+               <l>Which was the ſign appointed to be given;</l>
+               <l>
+                  <hi>Sinon</hi> at this (that curſe of partial heaven)</l>
+               <l>Broaches the horſe, which by a rope to run</l>
+               <l>Begins, as when you pierce a poyſond tun.</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes, Sthenelus, Tiſandrus, Thaos,</hi>
+               </l>
+               <l>The Architect <hi>Epeus, Menelaus,</hi>
+               </l>
+               <l>
+                  <hi>Machaon, Pyrrhus,</hi> on the dead now fall,</l>
+               <l>For wine and ſleep by this had bury'd all.</l>
+               <l>Our guards cut off, their companies that wait</l>
+               <l>Are both received and receive the gate.</l>
+               <l>About the hour heavens bounty ſleep renews,</l>
+               <l>The ſtrength of mortals and their care ſubdues,</l>
+               <l>The ghoſt of <hi>Hector</hi> ſmear'd with duſt and blood</l>
+               <l>Approach'd my bed, and ſtaring on me ſtood,</l>
+               <l>His cheeks were ſallow, and his eyes were dim,</l>
+               <l>As when the chariot drag'd him by a limb.</l>
+               <l>O heavens the ſpectacle! ah how he was</l>
+               <l>Transformed from that <hi>Hector</hi> who gave chace</l>
+               <l>To proud <hi>Achilles,</hi> and from thence return'd</l>
+               <l>In Laurel, and his brighter ſpoils adorn'd!</l>
+               <l>Who ſplit the <hi>Grecians</hi> while the <hi>Trojan</hi> brand</l>
+               <l>Fell on their navies from his lightning hand!</l>
+               <l>His beard was ſtiff, each wound a running ſore,</l>
+               <l>His lovely locks were clotted with his gore.</l>
+               <l>Mine eyes guſh'd forth, ah <hi>Hector,</hi> ah the joy,</l>
+               <l>The ſtrength, the glory, the ſupport of <hi>Troy,</hi>
+               </l>
+               <l>Where haſt thou been, whence doeſt thou come, how art</l>
+               <l>Thou furrow'd with thoſe wounds that wound my heart?</l>
+               <l>Why after ſuch effuſion in this place</l>
+               <l>Of <hi>Dardan</hi> blood ſee we ſo late thy face?</l>
+               <l>He anſwers not, but with a dreadful cry</l>
+               <pb n="32" facs="tcp:206240:25"/>
+               <l>Exclaims, ſon of the goddeſs fly, O fly.</l>
+               <l>Our gates are ſiezed by th' inſulting foe,</l>
+               <l>Great <hi>Troy,</hi> to which nor you nor I do owe</l>
+               <l>Is fallen, fallen from her envy'd height,</l>
+               <l>Acknowledging we both have done her right.</l>
+               <l>The reſt is vain, if ſhe had been to ſtand</l>
+               <l>That had been granted unto this right hand.</l>
+               <l>Her holy reliques, to thy piety</l>
+               <l>Bequeathed by her ſelf, bear thou with thee,</l>
+               <l>Whoſe wandring fate by theſe conducted, ſhall</l>
+               <l>In forraign parts ſet up the <hi>Trojan</hi> wall.</l>
+               <l>This ſaid, from <hi>Veſta</hi>'s cooling hearth he tears</l>
+               <l>Th' immortal flame, and forthwith diſappears.</l>
+               <l>Our houſe inviron'd by a ſilent wood</l>
+               <l>Retir'd ſome diſtance from the City ſtood.</l>
+               <l>Confuſed noiſes riſe in ſhreeks and fire,</l>
+               <l>The light grows greater, and the clamour higher.</l>
+               <l>As when a tempeſt fans with her hoarſe wings</l>
+               <l>A ſpark, which into ſtanding corn ſhe brings;</l>
+               <l>Or when a torrent at his forrage mocks</l>
+               <l>The labour of the plough-man and his ox,</l>
+               <l>Aſtoniſh'd ſhepherds waking at the ſound</l>
+               <l>Climb ſome high clift, and view the waſted ground:</l>
+               <l>Rous'd from my bed upon a tower I hover,</l>
+               <l>The <hi>Grecian</hi> fraud and fury thence diſcover.</l>
+               <l>
+                  <hi>Deiphobuses</hi> houſe fierce <hi>Vulcan</hi> razes,</l>
+               <l>And now <hi>
+                     <g ref="char:V">Ʋ</g>calegon</hi> our neighbour blazes,</l>
+               <l>The Seas themſelves are ſet on many fires</l>
+               <l>By the reflection of flaming ſpires.</l>
+               <l>Trumpets with ſhouts, and ſhreeks with trumpets vy,</l>
+               <l>To arms, to arms, give me my arms, I cry:</l>
+               <l>But to what end, I am as much to ſeek,</l>
+               <l>Except the caſtle held, and through the <hi>Greek</hi>
+               </l>
+               <pb n="33" facs="tcp:206240:25"/>
+               <l>We were enow to make our way. Deſpair</l>
+               <l>Provides companions that nothing fear.</l>
+               <l>
+                  <hi>Panthus Otriades, Apollo</hi>'s Prieſt,</l>
+               <l>Haling his little Nephew by the wriſt,</l>
+               <l>And loaden with his reliques, firſt we met.</l>
+               <l>
+                  <hi>Panthus,</hi> what chear, the caſtle holds it yet?</l>
+               <l>W' are gone, w' are loſt, he cries, the hour is come,</l>
+               <l>We have been <hi>Trojans,</hi> this was <hi>Ilium,</hi>
+               </l>
+               <l>The mighty glory of our anceſters,</l>
+               <l>Now all to <hi>Argos</hi> wrathful heaven transfers:</l>
+               <l>The burning City's maſter'd by the <hi>Greeks,</hi>
+               </l>
+               <l>The teeming horſe has open'd all his decks.</l>
+               <l>Inſulting <hi>Sinon</hi> lays about in flame,</l>
+               <l>Thouſands that are not of the <hi>Grecian</hi> name</l>
+               <l>Poſſeſs the gates, upon the breaches ſtand,</l>
+               <l>The reeking ſword is in a bloody hand;</l>
+               <l>Some of our guards a noble heat expreſs,</l>
+               <l>But few, and they expos'd to great diſtreſs.</l>
+               <l>At this as clamor and the furies guide,</l>
+               <l>We follow, <hi>Ripheus</hi> marching by my ſide,</l>
+               <l>With gallant <hi>Iphitus,</hi> then by the moon</l>
+               <l>
+                  <hi>Dymas</hi> and <hi>Hypanis</hi> fall in, and ſoon</l>
+               <l>(Unto adventures equal with his ſtake)</l>
+               <l>Comes young <hi>Coraebus</hi> for <hi>Caſſandra</hi>'s ſake:</l>
+               <l>Unhappy youth, who yet had breath'd this air</l>
+               <l>Had he believ'd her true as he did fair.</l>
+               <l>To theſe, great ſouls reſolv'd to charge, ſaid I</l>
+               <l>Although our gods retreat, our fortune fly,</l>
+               <l>Since all extreams meet in the point they ſhun,</l>
+               <l>This is our ſafety that we look for none.</l>
+               <l>Which ſaid, as wolves, whoſe cubs are dry-lip'd, prey,</l>
+               <l>Through night, through darts, through death we make our way.</l>
+               <pb n="34" facs="tcp:206240:26"/>
+               <l>That hollow herſe of darkneſs never ſhall</l>
+               <l>Find tears proportion'd to her funeral:</l>
+               <l>The growth of ages, from her envi'd height,</l>
+               <l>The antient City tumbles in a night,</l>
+               <l>The mangled ſpoils of ſouls in ſad exile,</l>
+               <l>Her houſes, ſtreets, her holy fanes defile.</l>
+               <l>Nor falls the <hi>Trojan</hi> only, or in vain;</l>
+               <l>Courage in frozen boſomes gives again;</l>
+               <l>The victor takes his turn, and has his hap,</l>
+               <l>While death is revelling in every ſhape.</l>
+               <l>Firſt of the <hi>Greeks Androgeo,</hi> by miſtake,</l>
+               <l>Accoſt's us thus. So camerades, you make</l>
+               <l>Good haſte it ſeems, while <hi>Troy</hi> is bound for <hi>Greece,</hi>
+               </l>
+               <l>Others returning ſtow her golden fleece</l>
+               <l>On ſinking keels, you but disbarque: what ails</l>
+               <l>You creep out of your wooden ſhells like ſnails!</l>
+               <l>But as a man that treads upon a ſnake</l>
+               <l>Too late perceives his error and gives back,</l>
+               <l>We charge him through and through, while he retires,</l>
+               <l>And cut him off engag'd among the briars.</l>
+               <l>At this ſucceſs <hi>Coraebus</hi> well adviſes,</l>
+               <l>We thus have gotten arms with fit diſguiſes,</l>
+               <l>Purſue we fortune in her choſen ways;</l>
+               <l>Courage and ſtratagem are equal praiſe:</l>
+               <l>And ſo puts on <hi>Androgeo</hi>'s plumed creſt,</l>
+               <l>Commending his example to the reſt.</l>
+               <l>Thus with the <hi>Trojan</hi> ſword and <hi>Grecian</hi> ſhield</l>
+               <l>Thouſands of foes we leave for ever ſeild;</l>
+               <l>Some ſneak abord, ſome to the lower ſhade,</l>
+               <l>And others reaſcend their wooden jade.</l>
+               <l>But who can ſtrive with heaven! we meet divine</l>
+               <l>
+                  <hi>Caſſandra</hi> drag'd from her <hi>Minerva</hi>'s ſhrine,</l>
+               <l>With flowing hair, and raiſed eyes in vain.</l>
+               <pb n="35" facs="tcp:206240:26"/>
+               <l>At which, into the midſt of the prophane,</l>
+               <l>
+                  <hi>Coraebus</hi> charg'd. We ſecond him, thus known</l>
+               <l>Unto their men and not unto our own,</l>
+               <l>Our friends, deceived by our bucklers, poure</l>
+               <l>Their fury on us from the temple tower.</l>
+               <l>To this both <hi>Ajax</hi> and the furious
+<note place="margin">b <hi>Menelaus,</hi> &amp; <hi>Agamennon.</hi>
+                  </note> ſons</l>
+               <l>Of <hi>Atreus</hi> bring up their <hi>Myrmidons.</hi>
+               </l>
+               <l>We joyn like blaſts from diſtant quarters met,</l>
+               <l>And whirle-winds in the rough embrace beget.</l>
+               <l>Numbers oppreſs us, they, whom partial night</l>
+               <l>Had reſcu'd once, return unto the fight.</l>
+               <l>
+                  <hi>Coraebus</hi> on <hi>Minerva</hi>'s altar dies,</l>
+               <l>
+                  <hi>Caſſandra</hi>'s moſt unwelcome ſacrifice.</l>
+               <l>
+                  <hi>Ripheus</hi> true <hi>Trojan,</hi> with his <hi>Dymas</hi> by</l>
+               <l>Miſtaking friends, are kill'd in curteſy.</l>
+               <l>Nor would thy Mitre <hi>Panthus</hi> ſerve thy turn.</l>
+               <l>To <hi>Troy</hi>'s cold aſhes and your common urne,</l>
+               <l>If any danger could divert the zeal</l>
+               <l>I ſhew'd your lives to reſcue, I appeal.</l>
+               <l>
+                  <hi>Peleas</hi> and <hi>Iphytus</hi> with me are born,</l>
+               <l>By clamour forward (<hi>Iphytus</hi> was worn</l>
+               <l>With age, and <hi>Pelias</hi> feeble with a wound</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> gave) w'are hurri'd till we found</l>
+               <l>The Court engaged in a fight ſo ſore</l>
+               <l>As if there had been nothing done before.</l>
+               <l>The <hi>Greeks</hi> cloſe rank'd their heads with targets ſlate,</l>
+               <l>Apply the tortoys unto every gate,</l>
+               <l>Others their lathers ſet unto the walls,</l>
+               <l>The left defends the head, the right hand ſcales;</l>
+               <l>While from the roof the <hi>Trojans</hi> roll the ſpires</l>
+               <l>And battlements, the pomp of their old fiers,</l>
+               <l>The waken'd rafters with their guilded beams,</l>
+               <l>Are amunition in theſe ſad extreams.</l>
+               <pb n="36" facs="tcp:206240:27"/>
+               <l>Others with rough proviſion below</l>
+               <l>Attend ith' entreys to ſuſtain the foe.</l>
+               <l>
+                  <hi>Priam</hi>'s diſtreſs our loyal blood inflames;</l>
+               <l>There was a ſecret paſſage for the dames</l>
+               <l>Of <hi>Hector</hi>'s houſe unto the Court, which way</l>
+               <l>His children were accuſtom'd to go play</l>
+               <l>(<hi>Troy</hi> then was happy) with their granſire King;</l>
+               <l>By this recruites unto the Court we bring,</l>
+               <l>There climb the roof from whence with ſmall effect</l>
+               <l>The <hi>Trojans</hi> their derided ſhot direct.</l>
+               <l>Here yet remain'd a turret <hi>Priam</hi>'s ſpy,</l>
+               <l>Whence he was wont to view the enemy,</l>
+               <l>We hew her from her lofty ſeat, diſcloſe</l>
+               <l>Her joynts, and pour the ruine on our foes;</l>
+               <l>Thouſands are bury'd, but, do what we can,</l>
+               <l>On their neglected graves as many ſtand.</l>
+               <l>
+                  <hi>Automedon</hi> brings up the <hi>Scyrian</hi> bands</l>
+               <l>With <hi>Periphas,</hi> and ſtorms the roof with brands.</l>
+               <l>
+                  <hi>Pyrrhus,</hi> in armour like the burniſh'd skins</l>
+               <l>Of vipers basking in the Sun, begins</l>
+               <l>To force the pallace gate: at every ſtroak</l>
+               <l>His iron javelin feeds upon the oak,</l>
+               <l>Till eaten through the heart, it now diſcloſe</l>
+               <l>The entrails ſacred to our Kings repoſe;</l>
+               <l>The guards with which the yielding door is lin'd,</l>
+               <l>Are firſt in view with ſpacious Courts behind.</l>
+               <l>Out of the inner parts confuſed cries,</l>
+               <l>Piercing the walls aſcend unto the skies,</l>
+               <l>Virgins in horror of their ruthleſs dooms</l>
+               <l>Wander the vaſt and ſolitary rooms,</l>
+               <l>Embrace the pillars, clip and kiſs the ſtone,</l>
+               <l>The marble thaws, the hollow arches groan.</l>
+               <l>
+                  <hi>Pyrrhus</hi> inſiſts with native fury born,</l>
+               <pb n="37" facs="tcp:206240:27"/>
+               <l>The doors are from their brazen hinges torn,</l>
+               <l>The guards cut off Streams, that have burſt their dams,</l>
+               <l>Swept herds of bulls away with flocks of lambs,</l>
+               <l>Into the eddys of ſome valley come,</l>
+               <l>As now the <hi>Greek</hi> flows into every room.</l>
+               <l>Proud columns hatch'd with gold, with trophies hung,</l>
+               <l>Are taught humility and laid along.</l>
+               <l>Where fire goes out, the fiercer <hi>Grecians</hi> hold.</l>
+               <l>His <hi>Troy</hi> on flame, his pallace forc'd, the old</l>
+               <l>King, feeble, and decrepid with his years,</l>
+               <l>Yet full of courage and reſolv'd appears</l>
+               <l>In unaccuſtom'd arms to welcome death.</l>
+               <l>There was an inner Court, in this beneath</l>
+               <l>The green pavilion of a Laurel ſtood</l>
+               <l>The houſhold gods, their table and their food,</l>
+               <l>An altar that was dayly ſmoaking. Hither,</l>
+               <l>Like flocks of Doves purſu'd by ſtormy weather,</l>
+               <l>The <hi>Trojan</hi> dames with <hi>Hecuba</hi> were fled,</l>
+               <l>And hung upon the Altars horned head.</l>
+               <l>But when the Queen perceiv'd her <hi>Priamus</hi>
+               </l>
+               <l>In youthful arms, ſhe let the Altar looſe</l>
+               <l>And hung about his neck, my aged Lord,</l>
+               <l>Alas, (ſays ſhe) were this my <hi>Hector</hi>'s ſword</l>
+               <l>It were too late, our exigences call</l>
+               <l>For other aids then theſe, or none at all;</l>
+               <l>This Altar ſhall defend us both, or neither,</l>
+               <l>As we have liv'd ſo let us die together.</l>
+               <l>Which ſaid, ſhe ſet him on the ſacred ſtone.</l>
+               <l>When lo, <hi>Polites, Priam</hi>'s younger ſon,</l>
+               <l>By <hi>Pyrrhus</hi> wounded, and purſued flies</l>
+               <l>Through privy paſſages and galleries,</l>
+               <l>Till reach'd, he ſpill upon the holy place</l>
+               <l>His purple ſoul before his fathers face.</l>
+               <pb n="38" facs="tcp:206240:28"/>
+               <l>The King above the danger, at the dire</l>
+               <l>Affront expreſſes this beſeeming ire.</l>
+               <l>The gods reward thee (if in heaven there be</l>
+               <l>Such care) for that which thou haſt made me ſee;</l>
+               <l>The like <hi>Achilles</hi> never would have done,</l>
+               <l>Thou doſt but fain thy ſelf to be his ſon.</l>
+               <l>At which with all his ſtrength he dealt a ſtroke,</l>
+               <l>That <hi>Pyrrhus</hi> with his brazen target broke,</l>
+               <l>And took him ſliding in the blood yet warm</l>
+               <l>Of his cold ſon, then wound about his arm</l>
+               <l>The ſnowy treſſes of the feeble ſire,</l>
+               <l>And drag'd him to the Altar. Go, enquire</l>
+               <l>Among the ſhades (ſays he) whoſe ſon I am,</l>
+               <l>Or tell my father how I Soil his name.</l>
+               <l>Which words by unrelenting <hi>Pyrrhus</hi> ſaid,</l>
+               <l>The other hand ſtrikes off old <hi>Priam</hi>'s head.</l>
+               <l>The ſons of <hi>Atreus</hi> with equal rage</l>
+               <l>Succeeding <hi>Pyrrhus</hi> ſpare nor ſex, nor age,</l>
+               <l>Till in their blood upon the altar lay</l>
+               <l>By thoughtleſs <hi>Priam</hi> willing <hi>Hecuba,</hi>
+               </l>
+               <l>Extinguiſhing the flames they us'd to feed,</l>
+               <l>By theſe an hundred of their off-ſpring bleed.</l>
+               <l>Such was the end of <hi>Priamus,</hi> when he</l>
+               <l>The ruine of his realm had liv'd to ſee;</l>
+               <l>The potent Prince to whom all <hi>Aſia</hi> gave</l>
+               <l>Obedience is not allow'd a grave;</l>
+               <l>His mighty trunk upon the ſhore is thrown</l>
+               <l>A common carkaſs, and a corſe unknown.</l>
+               <l>This ſpectacle my ſoul, till now of proof,</l>
+               <l>Had wholly ſtupifi'd, while on the roof</l>
+               <l>I ſtood deſerted to a man by all:</l>
+               <l>And dire remembrancers, what might befal</l>
+               <l>My family, deprived of my aid,</l>
+               <pb n="39" facs="tcp:206240:28"/>
+               <l>With horrour to my guilty conſcience laid.</l>
+               <l>My father in the King, in <hi>Hecuba</hi>
+               </l>
+               <l>My undefended wife <hi>Creüſa</hi> lay,</l>
+               <l>And of the children that I look'd upon</l>
+               <l>Me thought <hi>Aſcanius</hi> muſt needs be one.</l>
+               <l>Too late, while every paſs is block'd with fire,</l>
+               <l>I caſt about enraged to retire,</l>
+               <l>When lo, in flame that quenches flame and me,</l>
+               <l>From heav'n deſcends my Mother-Deity.</l>
+               <l>Son, ſays the Goddeſs, thanks to me are due,</l>
+               <l>That all is well at home, and not to you.</l>
+               <l>And for your Countrey, lay the cruel ſtorm,</l>
+               <l>This blood was not from <hi>Helen</hi>'s envy'd form,</l>
+               <l>
+                  <hi>Paris</hi> was not the maker of this fire.</l>
+               <l>Though dim mortality go ſeldom higher,</l>
+               <l>Men are but inſtruments of heav'ns decree,</l>
+               <l>And this ſuch <hi>Hero's</hi> as thy ſelf ſhould ſee.</l>
+               <l>Render thine arms, obey in ſuddain flight,</l>
+               <l>Behold, they are the gods themſelves that fight.</l>
+               <l>Which ſaid, a ray ſhe drops into mine eyes</l>
+               <l>That fills them with celeſtial light, and flyes.</l>
+               <l>Now <hi>Neptune,</hi> where the duſt and ſmoak aroſe,</l>
+               <l>Beheld I with his Trident dealing blows,</l>
+               <l>The ſpreading walls which he had <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyſt before</l>
+               <l>He furles, and makes their lofty turrets lore.</l>
+               <l>Waving a ſword unto her <hi>Grecians</hi> ſat</l>
+               <l>Remorſleſs <hi>Juno</hi> on the <hi>Scaean</hi> gate:</l>
+               <l>Upon the caſtle with her Gorgon ſtood</l>
+               <l>
+                  <hi>Bellona,</hi> brewing in a cloud of blood:</l>
+               <l>Nay, <hi>Jove</hi> himſelf ſo us'd to carry even</l>
+               <l>In <hi>Grecian</hi> arms array'd the hoaſt of heaven.</l>
+               <l>
+                  <hi>Troy,</hi> like a pine, that was the mountain's pride,</l>
+               <l>By husbandmen beſet on every ſide,</l>
+               <pb n="40" facs="tcp:206240:29"/>
+               <l>Whoſe axes lay their ſighing blows upon</l>
+               <l>Her ſtable root, now trembles, and anon</l>
+               <l>Slowly begins to bow, then with a groan</l>
+               <l>Aſtoniſhing the ſounding woods comes down.</l>
+               <l>The gods muſt be obey'd, farewell my Joy,</l>
+               <l>Eternally farewel <hi>Neptunian Troy.</hi>
+               </l>
+               <l>Now ſwerves the Palace, our ſupporters bend,</l>
+               <l>The roof that follows lands me; I deſcend</l>
+               <l>In ruine that before my flying feet</l>
+               <l>Chaſes the conqueror, and clears the ſtreet.</l>
+               <l>Unto the place once call'd our home, I ſteer,</l>
+               <l>Reſolv'd my father thence with ſpeed to bear.</l>
+               <l>But good old man, he utterly denies</l>
+               <l>To lay his bones but where his <hi>Ilium</hi> lies.</l>
+               <l>You that have blood to fill and warm your veins,</l>
+               <l>Have means to flie, and ſomewhat for your pains,</l>
+               <l>(Says he) but I ſhould find ſome other way,</l>
+               <l>Heav'n in theſe ruines laughs at my delay.</l>
+               <l>Alas, what ſhould he fly that ſeeks his end?</l>
+               <l>Help is at hand, a foe will be a friend.</l>
+               <l>All that of this cold earth can live is you,</l>
+               <l>My dear reſources leave a corſe, adieu.</l>
+               <l>My wife <hi>Creus', Aſcanius,</hi> and I</l>
+               <l>Bathing with tears his feet, at which we lie,</l>
+               <l>Beſeech him as he wiſhes ſuch reſource</l>
+               <l>Not to obſtruct it in the proper courſe,</l>
+               <l>Nor think the loſs already had ſo ſmall</l>
+               <l>As thus to argue till he loſe us all.</l>
+               <l>Still he perſiſts. Why then our flight, her ſears</l>
+               <l>Hath mew'd, for farewel hopes and farewel fears:</l>
+               <l>And ſhould a father think while he hath none</l>
+               <l>There can remain an hope unto his ſon!</l>
+               <l>My arms, my arms, the life I purchas'd at</l>
+               <pb n="41" facs="tcp:206240:29"/>
+               <l>Some price, let me go ſell at any rate;</l>
+               <l>Or <hi>Pyrrhus</hi> call to murder with a grace</l>
+               <l>Another ſon before his fathers face.</l>
+               <l>Ah mother <hi>Venus,</hi> thou haſt ſtood indeed</l>
+               <l>My friend, but has it been a friend at need,</l>
+               <l>If I be but preſerv'd to ſee my father,</l>
+               <l>
+                  <hi>Creus', Aſcanius,</hi> mix life blood together?</l>
+               <l>My arms, my arms, it is the laſt day calls</l>
+               <l>The Victor to the Captives funerals,</l>
+               <l>Who ſhall be entertain'd.— As with ſuch words</l>
+               <l>I flung away, <hi>Creuſa's</hi> arms were cords,</l>
+               <l>Who on her knees imbrac'd my feet, and ſpread</l>
+               <l>
+                  <hi>Aſcanius</hi> in the ſtep I was to tread.</l>
+               <l>If death, ſays ſhe, be good, and of deſpair</l>
+               <l>You ſeek that cure, refuſe us not our ſhare,</l>
+               <l>If ill forſake us not at ſuch a need,</l>
+               <l>Since he that flies to arms hath hope to ſpeed.</l>
+               <l>As thus ſhe argues with a tide of tears,</l>
+               <l>Behold a ſuddain prodigy appears,</l>
+               <l>
+                  <hi>Aſcaniuses</hi> curles have caught a fire</l>
+               <l>That on his tufted crown erects a ſpire,</l>
+               <l>Kiſſes his temples where it feeding ſhines,</l>
+               <l>And ſoftly with his unſing'd treſſes twines.</l>
+               <l>
+                  <hi>Creus'</hi> and I implore the liquid aid</l>
+               <l>Of ſprings, and with their gift the flame invade.</l>
+               <l>But old <hi>Anchiſes,</hi> with his hands to heaven,</l>
+               <l>Exalted at the ſign the gods have given,</l>
+               <l>Invokes the confirmation of their love</l>
+               <l>With zealous prayers addreſt to father <hi>Jove.</hi>
+               </l>
+               <l>It thunder'd, and a falling ſtar that drew</l>
+               <l>A ſilver ſtreak out of her rav'led clew,</l>
+               <l>To tack her thread upon the houſe begun,</l>
+               <l>And thence unto the woods of <hi>Ida</hi> ſpun.</l>
+               <pb n="42" facs="tcp:206240:30"/>
+               <l>
+                  <hi>Anchiſes</hi> is convinc'd, now no delay</l>
+               <l>Since his adored goddeſs chalks the way.</l>
+               <l>My honour'd father, come, you are no weight,</l>
+               <l>(Who bears his health is lighten'd by his freight)</l>
+               <l>Sit on my neck, thy hand <hi>Aſcanius,</hi>
+               </l>
+               <l>And dear <hi>Creus'</hi> be ſure you follow cloſe;</l>
+               <l>For you the ſervants, at the Cypreſs tree;</l>
+               <l>Upon the ſolitude of <hi>Ceres,</hi> be</l>
+               <l>The rendevouz. Our gods my father bears,</l>
+               <l>I him, thus fraught with all my hopes and fears</l>
+               <l>I go; <hi>Aſcanius</hi> graſps my hand, and traces</l>
+               <l>His fathers ſteps, though with unequal paces,</l>
+               <l>
+                  <hi>Creuſa</hi> follows. Was I us'd to ſtart!</l>
+               <l>Now not a leaf that ſtirs but chils my heart!</l>
+               <l>The horror of the night, the vaſt and wild</l>
+               <l>Fields which we paſs affright me like a child.</l>
+               <l>When well advanc'd upon our way, we meet</l>
+               <l>A ſuddain claſh of fire, and ſound of feet.</l>
+               <l>At this <hi>Anchiſes</hi> cry'd, <hi>Aeneas,</hi> fly,</l>
+               <l>And ſo I did as faſt as I could hy.</l>
+               <l>Thus chas'd, I know not by what envious power,</l>
+               <l>Deareſt <hi>Creus'</hi> I ſaw not from that hour.</l>
+               <l>Nor did I know or think how poor a man</l>
+               <l>I was, till we arriv'd at <hi>Ceres</hi> fane:</l>
+               <l>Where all are ſafe, but when we find the coſt,</l>
+               <l>(While ſhe alone is wanting) all are loſt.</l>
+               <l>Whether ſhe ſtaid or fainted by the way,</l>
+               <l>Or frighted by the ſpirits went aſtray,</l>
+               <l>Ye heav'ns it was a great ſeverity!</l>
+               <l>The ſack of <hi>Troy</hi> was not ſo much to me!</l>
+               <l>Unto a truſty covert I commend</l>
+               <l>My treaſure in my young and ancient friend,</l>
+               <l>With ſuch as met us at the Cypreſs tree:</l>
+               <pb n="43" facs="tcp:206240:30"/>
+               <l>Reſolv'd the ſable field again to ſee,</l>
+               <l>And try if I have courage now to greet</l>
+               <l>The powers with lightning eyes and thundring feet.</l>
+               <l>The darkneſs ſeem'd a vault, the night a tomb,</l>
+               <l>I call'd, <hi>Creuſa,</hi> O <hi>Creuſa</hi> come.</l>
+               <l>Horror condenſes, and in tears diſtils,</l>
+               <l>The eccho's ſhreek upon the waking hills.</l>
+               <l>
+                  <hi>Creuſa,</hi> O <hi>Creuſa,</hi> hear, O hear,</l>
+               <l>Thou knoweſt my woes, and if thy ſoul yet wear</l>
+               <l>The tenderneſs of humane fleſh, ſhouldſt aid:</l>
+               <l>Or, ah <hi>Creuſa,</hi> if thou beeſt a ſhade,</l>
+               <l>Can bleſſed ſpirits wound as thou haſt done,</l>
+               <l>And are they void of all compaſſion!</l>
+               <l>At ſuch complaints, to my affrighted eyes,</l>
+               <l>Her taller ghoſt appears, and thus replies.</l>
+               <l>My Lord, aſſwage the paſſion that trains</l>
+               <l>This fond indulgence unto fruitleſs pains:</l>
+               <l>Thus heav'n will have it: unpropitious <hi>Jove</hi>
+               </l>
+               <l>Forbids <hi>Creuſa</hi> to enjoy her love.</l>
+               <l>Where <hi>Lydian Tyber</hi> flows, the gods prepare</l>
+               <l>Him fortunes, better then admit her ſhare;</l>
+               <l>A ſcepter and a crowned bride. My dear,</l>
+               <l>Love my <hi>Aſcanius,</hi> and ſpare that tear.</l>
+               <l>I do not in low ſervitude diſgrace</l>
+               <l>The ſon of <hi>Venus,</hi> nor the <hi>Dardan</hi> race.</l>
+               <l>Nor <hi>Myrmidon,</hi> nor <hi>Dolop</hi> me conſtrains</l>
+               <l>To wait upon his wife, or wear his chains,</l>
+               <l>Who, by the <hi>Corybants</hi> preſented, dwell</l>
+               <l>With great <hi>Cybele.</hi> Deareſt Lord, farewel.</l>
+               <l>I call'd, I cry'd, endeavour'd to have ſtaid</l>
+               <l>With my deluded arms the flitting ſhade,</l>
+               <l>That cruelly regardleſs of my moans</l>
+               <l>Leaves me embracing air and thawing ſtones.</l>
+               <pb n="44" facs="tcp:206240:31"/>
+               <l>The night was waſted. I return and find</l>
+               <l>Our company increas'd in every kind:</l>
+               <l>A miſerable multitude implore</l>
+               <l>Me but to ſet 'em upon any ſhore.</l>
+               <l>The morning from mount <hi>Ida</hi> bluſht to ſhow</l>
+               <l>Our gates, not to be reſcu'd from the foe;</l>
+               <l>When with my father and my helpleſs flocks</l>
+               <l>I fled unto the refuge of the rocks.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:206240:31"/>
+            <head>Inconſtancy.</head>
+            <lg>
+               <l>HE who at firſt a womans mind</l>
+               <l>Compar'd to the inconſtant wind,</l>
+               <l>Did it in gratitude, not ſpleen,</l>
+               <l>For, had this ever conſtant been,</l>
+               <l>We that in wealth to pomp abound</l>
+               <l>Had ſcarce for needful uſes found.</l>
+               <l>It is his vary'd dance that leads</l>
+               <l>Us to the eaſtern ſpicy meads,</l>
+               <l>And back again our courſe declines</l>
+               <l>To dig in the rich weſtern mines,</l>
+               <l>Where ſhould it ſtand ſtill to one coaſt</l>
+               <l>The trafick of the world were loſt.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:206240:32"/>
+            <head>On <hi>Florella</hi>'s coming to be a maid of honour.</head>
+            <lg>
+               <l>WHen in <hi>Florella</hi> firſt I view'd</l>
+               <l>The charms which more then I have ru'd,</l>
+               <l>She paſt here time in ſpeckled bowers</l>
+               <l>And dwelt among the Countrey flowers.</l>
+               <l>My wonder lending fame a wing</l>
+               <l>This beauty to the Court to bring,</l>
+               <l>The virgin ſtreight began to wear</l>
+               <l>An heart as hard as ſhe was fair.</l>
+               <l>So Divers from the deep invite</l>
+               <l>The hidden coral to the light,</l>
+               <l>When at the touch of air alone</l>
+               <l>The tender plant turns precious ſtone.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206240:32"/>
+         </div>
+      </body>
+   </text>
+</TEI>
